@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  Favorite Quotes
-categories: Quotes]
+categories: Quotes
 excerpt: Imagine others complexly
 ---
+
+*Dates are included when relevant*
 
 Imagine others complexly - John Greene
 
