@@ -5,7 +5,7 @@ categories: Quotes
 excerpt: Imagine others complexly
 ---
 
-*Dates are included when relevant*
+*Year is included when relevant*
 
 Imagine others complexly - John Green
 
