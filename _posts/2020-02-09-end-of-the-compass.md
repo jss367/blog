@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Pullquotes
-categories: [HTML,Code]
+title:  Where the Moral Compass Ends
+categories: [Morality]
 excerpt: We have no moral compass for the 21st century
 ---
 
