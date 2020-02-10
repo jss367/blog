@@ -7,7 +7,7 @@ excerpt: Imagine others complexly
 
 *Dates are included when relevant*
 
-Imagine others complexly - John Greene
+Imagine others complexly - John Green
 
 As democracy is perfected, the office represents, more and more closely, the inner soul of the people. We move toward a lofty ideal. On some great and glorious day the plain folks of the land will reach their heart's desire at last, and the White House will be adorned by a downright moron. - H.L. Mencken, 1920
 
