@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Reverie
+name: My blog
 
 # Name of the author
-author: Amit Merchant
+author: Julius Simonelli
 
 # Short bio or description (displayed in the header)
 description: An elegant Jekyll theme
@@ -21,7 +21,7 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amit.d.merchant@gmail.com
+  email: julius.simonelli@gmail.com
   facebook:
   flickr:
   github: amitmerchant1990/reverie
@@ -41,7 +41,7 @@ footer-links:
 disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-43339302-11
+google_analytics: 
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
