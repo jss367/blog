@@ -14,8 +14,11 @@ Sublime Text
 - with package control
 - absolutely love this. Use it every day
 
-notepad ++
+Notepad ++
 - honorable mention but almost completely replaced by Sublime Text
+
+Evernote
+- really good but I just don't use it that much anymore
 
 ## Utilities
 
@@ -25,7 +28,7 @@ Agent ransack
 - Windows only, unfortunately
 
 ### Unzipping
-7-zip
+7-Zip
 - clear winner for Windows
 
 ### Checking disk space
@@ -65,13 +68,10 @@ Spotify
 
 # Cloud Storage
 
-google backup and sync
-
-dropbox
-
-onedrive
-
-pcloud drive
+* Google backup and sync
+* Dropbox
+* Microsoft Onedrive
+* Pcloud drive
 
 Yes, I do use four different cloud services. All for slightly different purposes.
 
@@ -97,15 +97,16 @@ I have no loyalty to any of these. I usually just go with the top free one recom
 malware bytes
 avast
 
+# Office Suite
+libreoffice
+- I actually don't use this very much anymore. For work I usually stick to Google's online offerings
+
 # Other
 
 clover - this is really helpful but it's sketchy. It always alerts my antivirus software so I don't recommend it. I'm looking for an alternative
 
 
-libreoffice
 google earth
-
-evernote
 
 windscribe
 
@@ -129,6 +130,7 @@ keepass - dashlane, although far from perfect
 
 
 docker
+- Still a pain on Windows. Wonderful for linux and Mac
 
 wget for windows - 
 https://eternallybored.org/misc/wget/
@@ -137,8 +139,8 @@ https://eternallybored.org/misc/wget/
 
 sumatra (pdf) - or just my web browser now
 
-
 patch my pc
+- I'm still looking for something to help me automatically update software on my computer. So far I've gone with patch my pc but there's nothing I like
 
 texmaker - but NEED A DISTRIBUTION WITH IT - MIKTEX
 hxd (hex editor)
