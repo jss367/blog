@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Why Are Platitudes so Wrong?
