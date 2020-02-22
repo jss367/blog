@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Where the Moral Compass Ends
+title:  Self-Defense
 categories: [Morality]
 excerpt: Is it self-defense to kill an innocent bystander?
 ---
