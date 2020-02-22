@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Will AGI be humanlike"
-tags: [Artificial Intelligence]
+title: "Software I Use"
+tags: [Software]
 ---
 
 I'm always curious how people set up their computers and what software packages they have, so I thought I would share mine. I use Windows, Mac, and Linux, so the exact setup varies.
