@@ -18,3 +18,6 @@ Don’t rely on the adults too much. Most of them mean well, but they just don�
 For every complex problem there is an answer that is clear, simple, and wrong. - H.L. Mencken
 
 The better you know a particular historical period, the harder it becomes to explain why things happened one way and not another - Yuval Noah Harari
+
+She has probably one of the most mature and well-honed sense of ethics - personal ethics, managerial ethics, business ethics, medical ethics that I’ve ever heard articulated - James Mattis on Elizabeth Holmes
+ - I think this quote shows how even the most successful people can have blindspots, and how incredibly blind those spots can be
