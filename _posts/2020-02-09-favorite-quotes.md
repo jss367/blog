@@ -21,3 +21,5 @@ The better you know a particular historical period, the harder it becomes to exp
 
 She has probably one of the most mature and well-honed sense of ethics - personal ethics, managerial ethics, business ethics, medical ethics that I’ve ever heard articulated - James Mattis on Elizabeth Holmes
  - I think this quote shows how even the most successful people can have blindspots, and how incredibly blind those spots can be
+
+The difference between theory and practice is greater in practice than in theory. - Unknown
