@@ -10,18 +10,18 @@ I'm always curious how people set up their computers and what software packages 
 # General
 
 ## Notetaking
-* [Sublime Text](https://www.sublimetext.com/)
+[Sublime Text](https://www.sublimetext.com/)
 ** with package control
 ** absolutely love this. Use it every day
 
-* [Notepad ++](https://notepad-plus-plus.org/) (Ninite)
+[Notepad ++](https://notepad-plus-plus.org/) (Ninite)
 ** honorable mention but almost completely replaced by Sublime Text
 
-* [Evernote](https://evernote.com/)
-** really good but I just don't use it that much anymore
+[Evernote](https://evernote.com/)
+* really good but I just don't use it that much anymore
 
-* [Atom](https://atom.io/)
-** I've used this but not strongly prefer Sublime Text, so almost never go back to it
+[Atom](https://atom.io/)
+* I've used this but not strongly prefer Sublime Text, so almost never go back to it
 
 ## Utilities
 
@@ -48,22 +48,6 @@ I'm always curious how people set up their computers and what software packages 
 [VSCode](https://code.visualstudio.com/)
 - Right now it's VSCode and I'm very happy with it. I have used many of the alternatives and in general I think there are a lot of good options, but I really like VSCode.
 
-We all know extensions are a lot of the reason that VSCode is so great. Some of the ones I use are:
-* autoDocstring
-* Better Comments
-* Code Runner
-* Docker
-* GitLens - Git supercharged
-* Material Icon Theme
-* Python
-* Remote - WSL (Windows only)
-* Remote - SSH
-* Remote - Containers
-* Settings Sync
-* Visual Studio IntelliCode
-
-
-
 And, of course, configuring your IDE that way you like it is essential, and VSCode is incredibly extensible. First, here's how to access the settings:
 
 * Open the Command Palette: `CMD/CTRL + SHIFT + P`
@@ -71,58 +55,7 @@ And, of course, configuring your IDE that way you like it is essential, and VSCo
 
 You can also jump to the settings or Command Palette by clicking on the settings wheel in the bottom left corner.
 
-Here are the configurations I use:
-```
-{
-    "breadcrumbs.enabled": true,
-    "diffEditor.renderSideBySide": true,
-    "editor.acceptSuggestionOnEnter": "smart", // testing
-    "editor.detectIndentation": false,
-    "editor.formatOnPaste": false,
-    "editor.formatOnSave": true,
-    "editor.renderWhitespace": "boundary",
-    "editor.rulers": [
-        80,
-        120
-    ],
-    "editor.mouseWheelZoom": true,
-    "editor.suggestSelection": "first",
-    "explorer.sortOrder": "type",
-    "files.autoSave": "afterDelay",
-    "files.trimFinalNewlines": true,
-    "files.insertFinalNewline": true,
-    "git.autofetch": true,
-    "git.enableSmartCommit": true,
-    "python.jediEnabled": false,
-    "python.linting.flake8Enabled": true,
-    "python.linting.enabled": true,
-    "python.formatting.autopep8Args": [
-        "--aggressive",
-        "--aggressive",
-        "--max-line-length",
-        "120",
-        "--ignore",
-        "E26"
-    ],
-    "window.title": "${activeEditorMedium}${separator}${rootName}",
-    "workbench.editor.highlightModifiedTabs": true,
-    "workbench.iconTheme": "material-icon-theme",
-    "python.dataScience.sendSelectionToInteractiveWindow": false, // testing
-    "python.linting.pylintPath": "/usr/local/bin/pylint",
-    "remote.SSH.configFile": "/Users/juliussimonelli/config",
-    "remote.SSH.showLoginTerminal": false,
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "[jsonc]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
-    "[python]": {
-        "editor.defaultFormatter": "ms-python.python"
-    },
-}
-
-```
-
-You can actually copy the whole thing in my Gists: https://gist.github.com/jss367/6574f6940f7c9603ffd949f42ca4f205
+You can see (and copy) all the extensions and settings I use in my [Visual Studio Code Settings Sync Gist](https://gist.github.com/jss367/6574f6940f7c9603ffd949f42ca4f205)
 
 * R 
 * Rstudio
@@ -134,15 +67,11 @@ You can actually copy the whole thing in my Gists: https://gist.github.com/jss36
 
 
 
-
-
 # Web browsers
 I always have three or more web browsers on each computer. I use them for different things. All are very good.
 * [Google Chrome](https://www.google.com/chrome/) (Ninite)
 * Mozille Firefox (Ninite)
 * [Brave](https://brave.com/)
-
-
 
 # Music
 [Spotify](https://www.spotify.com/us/)
