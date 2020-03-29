@@ -119,6 +119,8 @@ Here are the configurations I use:
 
 ```
 
+You can actually copy the whole thing in my Gists: https://gist.github.com/jss367/6574f6940f7c9603ffd949f42ca4f205
+
 R and Rstudio
 
 
