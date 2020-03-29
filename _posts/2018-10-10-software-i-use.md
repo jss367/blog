@@ -103,12 +103,15 @@ Yes, I do use four different cloud services. All for slightly different purposes
 
 In Windows I use a mix, mostly because none of them are perfect. Here's a case (unlike browsers) that I would rather just have one
 
-ConEmu
-Windows PowerShell
-Anaconda Prompt - for Anaconda stuff only
-WSL 2
-ubuntu
-cmder
+* cmder
+- Allows *nix style commands, makes switching between Mac and Linux and Windows much easier
+* ConEmu
+- Top contender
+* Windows PowerShell
+* Anaconda Prompt - for Anaconda stuff only
+* WSL 2
+* ubuntu
+
 terminal
 
 I have to say I like the terminal game in Mac better. For me, nothing beats iTerm2
