@@ -57,6 +57,9 @@ I always have three or more web browsers on each computer. I use them for differ
 
 [VLC](https://www.videolan.org/vlc/index.html) (FOSS, Ninite)
 
+[Audacity](https://www.audacityteam.org/) (FOSS, Ninite)
+
+
 ## Cloud Storage
 
 [Google backup and sync](https://www.google.com/drive/download/backup-and-sync/) (Ninite)
@@ -104,10 +107,6 @@ Yes, I do use four different cloud services (actually more, but these are the on
 * Used in partnership with [Github](https://github.com/)
 * Git is great but frustrating when you [can't figure it out](https://xkcd.com/1597/) (yes, I've actually done this)
 * Github is amazing and makes git much more beginner-friendly
-
-
-
-
 
 # Terminals
 
@@ -173,16 +172,30 @@ Still haven't found the perfect one. The two I've used most recently are:
 * I'm still looking for something to help me automatically update software on my computer. So far I've gone with patch my pc but there's nothing I like
 
 
+## Messaging
 
-# Other
+Discord (Ninite)
 
-## Video
+Slack
+
+# Latex Editor
+
+texmaker
+* Requires a distribution with it. I like MIKTEX
+
+texmaker and pdflatex (through miktex)
+
+# Hex editor
+* [HxD](https://mh-nexus.de/en/hxd/)
+
+
+# Video conferencing
 
 Zoom (Ninite)
 
 Google Hangouts
 
-## Photography
+# Photography
 
 Adobe Lightroom
 
@@ -196,11 +209,12 @@ Adobe Lightroom
 [ISS Transit Finder](https://transit-finder.com/)
 * Online only, no download
 
+# Other
 
 [Grammarly](https://www.grammarly.com/)
 * Pretty good. I hope it keeps getting better as natural language processing improves
 
-* [Google Earth](https://www.google.com/earth/) (Ninite)
+[Google Earth](https://www.google.com/earth/) (Ninite)
 
 [AutoHotkey](https://www.autohotkey.com/)
 
@@ -223,22 +237,4 @@ Adobe Lightroom
 
 [Wireshark](https://www.wireshark.org/) (FOSS)
 * The clear winner for free network protocol analyzers
-
-Audacity (Ninite)
-
-## Messaging
-
-Discord (Ninite)
-
-Slack
-
-## Latex Editor
-
-texmaker
-* Requires a distribution with it. I like MIKTEX
-
-texmaker and pdflatex (through miktex)
-
-## Hex editor
-* [HxD](https://mh-nexus.de/en/hxd/)
 
