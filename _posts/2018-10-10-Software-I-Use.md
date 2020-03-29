@@ -71,11 +71,52 @@ You can also jump to the settings or Command Palette by clicking on the settings
 Here are the configurations I use:
 ```
 {
-    "editor.rulers": [80, 120],
+    "breadcrumbs.enabled": true,
+    "diffEditor.renderSideBySide": true,
+    "editor.acceptSuggestionOnEnter": "smart", // testing
+    "editor.detectIndentation": false,
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "boundary",
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.mouseWheelZoom": true,
+    "editor.suggestSelection": "first",
+    "explorer.sortOrder": "type",
+    "files.autoSave": "afterDelay",
+    "files.trimFinalNewlines": true,
+    "files.insertFinalNewline": true,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "python.jediEnabled": false,
     "python.linting.flake8Enabled": true,
     "python.linting.enabled": true,
-    "python.formatting.autopep8Args":["--aggressive", "--aggressive", "--max-line-length", "120", "--ignore", "E26"],
+    "python.formatting.autopep8Args": [
+        "--aggressive",
+        "--aggressive",
+        "--max-line-length",
+        "120",
+        "--ignore",
+        "E26"
+    ],
+    "window.title": "${activeEditorMedium}${separator}${rootName}",
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "python.dataScience.sendSelectionToInteractiveWindow": false, // testing
+    "python.linting.pylintPath": "/usr/local/bin/pylint",
+    "remote.SSH.configFile": "/Users/juliussimonelli/config",
+    "remote.SSH.showLoginTerminal": false,
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
 }
+
 ```
 
 R and Rstudio
