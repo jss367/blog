@@ -49,17 +49,26 @@ We all know extensions are a lot of the reason that VSCode is so great. Some of 
 * autoDocstring
 * Better Comments
 * Code Runner
+* Docker
 * GitLens - Git supercharged
+* Material Icon Theme
 * Python
 * Remote - WSL (Windows only)
 * Remote - SSH
 * Remote - Containers
-* Docker
+* Settings Sync
 * Visual Studio IntelliCode
 
 
 
-And, of course, configuring your IDE that way you like it is essential. Here are the configurations I use:
+And, of course, configuring your IDE that way you like it is essential, and VSCode is incredibly extensible. First, here's how to access the settings:
+
+* Open the Command Palette: `CMD/CTRL + SHIFT + P`
+* You can use either the User Interface (`Preferences: Open Settings (UI)`) or edit the json directly `Preferences: Open Settings (JSON)`. 
+
+You can also jump to the settings or Command Palette by clicking on the settings wheel in the bottom left corner.
+
+Here are the configurations I use:
 ```
 {
     "editor.rulers": [80, 120],
