@@ -4,13 +4,13 @@ title: "Software I Use"
 tags: [Software]
 ---
 
-I'm always curious how people set up their computers and what software packages they have, so I thought I would share mine. I use Windows, Mac, and Linux, so the exact setup varies. Many of these can be installed with [Ninite](https://ninite.com/).
+I'm always curious about how people set up their computers and what software packages they have, so I thought I would share mine. I use Windows, Mac, and Linux, so the exact setup varies. Many of these can be installed with [Ninite](https://ninite.com/).
 
 # General
 
 ## Text Editors
 [Sublime Text](https://www.sublimetext.com/)
-* Absolutely love this. Use it every day
+* I absolutely love this. Use it every day
 * With package control
 
 [Notepad ++](https://notepad-plus-plus.org/) (Ninite)
@@ -20,7 +20,7 @@ I'm always curious how people set up their computers and what software packages 
 * Really good but I just don't use it that much anymore
 
 [Atom](https://atom.io/)
-* I've used this but not strongly prefer the others, so almost never go back to it
+* I've used this but not strongly prefer the others, so rarely go back to it
 
 Note that you can also use a full IDE as a text editor. Only makes since if you're already using one though.
 
@@ -31,16 +31,16 @@ Note that you can also use a full IDE as a text editor. Only makes since if you'
 [Commander One](https://apps.apple.com/us/app/commander-one-file-manager/id1035236694?mt=12) (Mac only)
 * *Much* better than Finder
 
-Still looking for one on Windows that I really like
+Still looking for one on Windows that I like
 
 ### Searching for files
 [Agent Ransack](https://www.mythicsoft.com/agentransack/) (Windows only)
 - Perfect search tool. I strongly favor this over the (otherwise also very good) alternatives
-- No equivalent for linux or mac, although there are strong built-in options
+- No equivalent for Linux or Mac, although there are decent built-in options
 
 ### Unzipping
 [7-Zip](https://www.7-zip.org/download.html) (Ninite)
-- clear winner for Windows
+- Clear winner for Windows
 
 ### Checking disk space
 [WinDirStat](https://windirstat.net/index.html) (Windows only) (Ninite)
@@ -48,7 +48,7 @@ Still looking for one on Windows that I really like
 ## Web browsers
 I always have three or more web browsers on each computer. I use them for different things. All are very good.
 * [Google Chrome](https://www.google.com/chrome/) (Ninite)
-* [Mozille Firefox](https://www.mozilla.org/en-US/firefox/) (Ninite)
+* [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) (Ninite)
 * [Brave](https://brave.com/)
 
 ## Media
@@ -83,10 +83,10 @@ Yes, I do use four different cloud services (actually more, but these are the on
 
 ## IDE
 [VSCode](https://code.visualstudio.com/) (Ninite)
-* Right now it's VSCode and I'm very happy with it. I have used many of the alternatives and in general I think there are a lot of good options, but I really like VSCode.
+* Right now it's VSCode and I'm very happy with it. I have used many of the alternatives and, in general, I think there are a lot of good options, but I really like VSCode.
 * Configuring your IDE that way you like it is essential, and VSCode is incredibly extensible. First, here's how to access the settings:
   * Open the Command Palette: `CMD/CTRL + SHIFT + P`
-  * You can use either the User Interface (`Preferences: Open Settings (UI)`) or edit the json directly `Preferences: Open Settings (JSON)`. 
+  * You can use either the User Interface (`Preferences: Open Settings (UI)`) or edit the JSON directly `Preferences: Open Settings (JSON)`. 
     * You can also jump to the settings or Command Palette by clicking on the settings wheel in the bottom left corner.
 * You can see (and copy) all the extensions and settings I use in my [Visual Studio Code Settings Sync Gist](https://gist.github.com/jss367/6574f6940f7c9603ffd949f42ca4f205)
 
@@ -96,7 +96,7 @@ Yes, I do use four different cloud services (actually more, but these are the on
 * It is excellent though and I recommend 
 
 [RStudio](https://rstudio.com/)
-* Clear winner in my opinion for R IDE, although I don't use R much anymore
+* The clear winner in my opinion for R IDE, although I don't use R much anymore
 
 ## Version Control
 [Git](https://git-scm.com/)
@@ -111,16 +111,16 @@ Yes, I do use four different cloud services (actually more, but these are the on
 
 # Terminals
 
-In Windows I use a mix, mostly because none of them are perfect. Here's a case (unlike browsers) that I would rather just have one
+In Windows, I use a mix, mostly because none of them are perfect. Here's a case (unlike browsers) that I would rather just have one
 
 [iTerm2](https://www.iterm2.com/)
-* Clear winner for Mac and my overall favorite. I wish Windows had this
+* The clear winner for Mac and my overall favorite. I wish Windows had this
 
 [Cmder](https://cmder.net/)
 * Allows Unix style commands, makes switching between Mac and Linux and Windows much easier
 
 [ConEmu](https://conemu.github.io/)
-* Top contender for best terminal in Windows. This is a really good terminal
+* A top contender for the best terminal in Windows. This is a really good terminal
 
 [Windows PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/getting-started/getting-started-with-windows-powershell?view=powershell-7)
 * Sometimes I like and it sometimes I don't...
@@ -142,7 +142,7 @@ As you can see, I'm strewn across half a dozen terminals in Windows and have fou
 [Google Slides](https://www.google.com/slides/about/)
 * I prefer Excel, but it's free and I don't use spreadsheet enough to buy Excel
 [LibreOffice](https://www.libreoffice.org/) (FOSS, Ninite)
-* I prefer this to Google's offerings but I actually don't use this very much anymore.
+* I prefer this to Google's offerings but I don't use this very much anymore.
 
 # Security
 
@@ -184,14 +184,14 @@ Google Hangouts
 
 ## Photography
 
-Adobe lightroom
+Adobe Lightroom
 
 [Image Composite Editor](https://www.microsoft.com/en-us/research/project/image-composite-editor/)
 * Free tool from Microsoft to stitch images for panoramas. Works better than Lightroom
 
 [StarStaX](https://markus-enzweiler.de/software/starstax/)
 * Great for making star trails
-* Really nice simple piece of software that does one thing well
+* A really nice simple piece of software that does one thing well
 
 [ISS Transit Finder](https://transit-finder.com/)
 * Online only, no download
@@ -212,7 +212,7 @@ Adobe lightroom
 [Inkscape](https://inkscape.org/) (FOSS, Ninite)
 
 [Docker](https://www.docker.com/)
-* Still a pain on Windows Home. Wonderful for linux and Mac
+* Still a pain on Windows Home. Wonderful for Linux and Mac
 
 [Wget for Windows](https://eternallybored.org/misc/wget/)
 * just stick in somewhere in your path, C:\Windows
@@ -222,7 +222,7 @@ Adobe lightroom
 * I mainly just my web browser now
 
 [Wireshark](https://www.wireshark.org/) (FOSS)
-* The clear winning for free network protocol analyzers
+* The clear winner for free network protocol analyzers
 
 Audacity (Ninite)
 
