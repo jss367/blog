@@ -193,7 +193,8 @@ Adobe lightroom
 * Great for making star trails
 * Really nice simple piece of software that does one thing well
 
-https://transit-finder.com/
+[ISS Transit Finder](https://transit-finder.com/)
+* Online only, no download
 
 
 [Grammarly](https://www.grammarly.com/)
