@@ -6,7 +6,6 @@ tags: [Software]
 
 I'm always curious how people set up their computers and what software packages they have, so I thought I would share mine. I use Windows, Mac, and Linux, so the exact setup varies. Many of these can be installed with [Ninite](https://ninite.com/).
 
-
 # General
 
 ## Text Editors
@@ -17,7 +16,7 @@ I'm always curious how people set up their computers and what software packages 
 [Notepad ++](https://notepad-plus-plus.org/) (Ninite)
 * Honorable mention but almost completely replaced by Sublime Text
 
-[Evernote](https://evernote.com/)
+[Evernote](https://evernote.com/) (Ninite)
 * Really good but I just don't use it that much anymore
 
 [Atom](https://atom.io/)
@@ -27,27 +26,63 @@ Note that you can also use a full IDE as a text editor. Only makes since if you'
 
 ## Utilities
 
+### File Management
+
+[Commander One](https://apps.apple.com/us/app/commander-one-file-manager/id1035236694?mt=12) (Mac only)
+* *Much* better than Finder
+
+Still looking for one on Windows that I really like
+
 ### Searching for files
 [Agent Ransack](https://www.mythicsoft.com/agentransack/) (Windows only)
 - Perfect search tool. I strongly favor this over the (otherwise also very good) alternatives
 - No equivalent for linux or mac, although there are strong built-in options
 
 ### Unzipping
-[7-Zip](https://www.7-zip.org/download.html)
+[7-Zip](https://www.7-zip.org/download.html) (Ninite)
 - clear winner for Windows
 
 ### Checking disk space
-[WinDirStat](https://windirstat.net/index.html) (Windows only)
+[WinDirStat](https://windirstat.net/index.html) (Windows only) (Ninite)
+
+## Web browsers
+I always have three or more web browsers on each computer. I use them for different things. All are very good.
+* [Google Chrome](https://www.google.com/chrome/) (Ninite)
+* [Mozille Firefox](https://www.mozilla.org/en-US/firefox/) (Ninite)
+* [Brave](https://brave.com/)
+
+## Media
+[Spotify](https://www.spotify.com/us/) (Ninite)
+* Seems to have won the music player market for now
+
+[VLC](https://www.videolan.org/vlc/index.html) (FOSS, Ninite)
+
+## Cloud Storage
+
+[Google backup and sync](https://www.google.com/drive/download/backup-and-sync/) (Ninite)
+* Unlimited photos, very good app
+* They keep renaming it, and I expect that to continue. It's Google
+
+[Dropbox](https://www.dropbox.com/) (Ninite)
+* Poor website interface but other than that one of my favorites
+
+[Microsoft OneDrive](https://products.office.com/en-us/onedrive/online-cloud-storage) (Ninite)
+* This does syncing very well
+
+[Pcloud Drive](https://www.pcloud.com/download-free-online-cloud-file-storage.html)
+* Not as good as the others but I still use it every day
+
+Yes, I do use four different cloud services (actually more, but these are the ones I recommend). All for slightly different purposes. There's also SugarSync, which I haven't played with much yet.
 
 # Programming
 
 ## Python distribution
 
-[Anaconda](https://www.anaconda.com/distribution/)
+[Anaconda](https://www.anaconda.com/distribution/) (FOSS)
 - Now a no-brainer for data scientists
 
 ## IDE
-[VSCode](https://code.visualstudio.com/)
+[VSCode](https://code.visualstudio.com/) (Ninite)
 * Right now it's VSCode and I'm very happy with it. I have used many of the alternatives and in general I think there are a lot of good options, but I really like VSCode.
 * Configuring your IDE that way you like it is essential, and VSCode is incredibly extensible. First, here's how to access the settings:
   * Open the Command Palette: `CMD/CTRL + SHIFT + P`
@@ -70,32 +105,9 @@ Note that you can also use a full IDE as a text editor. Only makes since if you'
 * Git is great but frustrating when you [can't figure it out](https://xkcd.com/1597/) (yes, I've actually done this)
 * Github is amazing and makes git much more beginner-friendly
 
-# Web browsers
-I always have three or more web browsers on each computer. I use them for different things. All are very good.
-* [Google Chrome](https://www.google.com/chrome/) (Ninite)
-* [Mozille Firefox](https://www.mozilla.org/en-US/firefox/) (Ninite)
-* [Brave](https://brave.com/)
 
-# Music
-[Spotify](https://www.spotify.com/us/)
-* Seems to have won the market for now
 
-# Cloud Storage
 
-[Google backup and sync](https://www.google.com/drive/download/backup-and-sync/)
-* Unlimited photos, very good app
-* They keep renaming it, and I expect that to continue. It's Google
-
-[Dropbox](https://www.dropbox.com/)
-* Poor website interface but other than that one of my favorites
-
-[Microsoft OneDrive](https://products.office.com/en-us/onedrive/online-cloud-storage)
-* This does syncing very well
-
-[Pcloud Drive](https://www.pcloud.com/download-free-online-cloud-file-storage.html)
-* Not as good as the others but I still use it every day
-
-Yes, I do use four different cloud services. All for slightly different purposes.
 
 # Terminals
 
@@ -129,7 +141,7 @@ As you can see, I'm strewn across half a dozen terminals in Windows and have fou
 * Don't love it, but great for sharing and multi-person editing
 [Google Slides](https://www.google.com/slides/about/)
 * I prefer Excel, but it's free and I don't use spreadsheet enough to buy Excel
-[LibreOffice](https://www.libreoffice.org/) (Ninite)
+[LibreOffice](https://www.libreoffice.org/) (FOSS, Ninite)
 * I prefer this to Google's offerings but I actually don't use this very much anymore.
 
 # Security
@@ -138,8 +150,9 @@ As you can see, I'm strewn across half a dozen terminals in Windows and have fou
 
 I have no loyalty to any of these. I usually just go with the top free one recommended. I've also used paid ones in the past but I don't know if it's worth it.
 
-[Malware Bytes](https://www.malwarebytes.com/)
-[Avast](https://www.avast.com/en-us/index#pc)
+[Malware Bytes](https://www.malwarebytes.com/) (Ninite)
+
+[Avast](https://www.avast.com/en-us/index#pc) (Ninite)
 * The free version has so many obnoxious popups it's basically adware. So you install adware to avoid malware, most of which is adware... I guess I'm supposed to buy the paid version. It's hard to know how good your anti-virus software is.
 
 ## VPN
@@ -151,13 +164,23 @@ I have no loyalty to any of these. I usually just go with the top free one recom
 
 Still haven't found the perfect one. The two I've used most recently are:
 
-* [Keepass](https://keepass.info/) (FOSS)
+* [KeePass 2](https://keepass.info/) (FOSS, Ninite)
 * [Dashlane](https://www.dashlane.com/) (paid)
 
 ## Managing Updates
 
 [Patch My PC](https://patchmypc.com/home-updater-download) (Windows only)
 * I'm still looking for something to help me automatically update software on my computer. So far I've gone with patch my pc but there's nothing I like
+
+
+
+# Other
+
+## Video
+
+Zoom (Ninite)
+
+Google Hangouts
 
 ## Photography
 
@@ -172,42 +195,48 @@ Adobe lightroom
 
 https://transit-finder.com/
 
-# Other
 
 [Grammarly](https://www.grammarly.com/)
 * Pretty good. I hope it keeps getting better as natural language processing improves
 
-Clover
-* This is really helpful but it's sketchy. It always alerts my antivirus software so I don't recommend it. I'm looking for an alternative. It's got adware.
+* [Google Earth](https://www.google.com/earth/) (Ninite)
 
-* [Google Earth](https://www.google.com/earth/)
-
-Auto hotkey
+[AutoHotkey](https://www.autohotkey.com/)
 
 [Speccy](https://www.ccleaner.com/speccy) (Windows only)
 
-vlc
+[Astronomy Picture of the Day](https://www.microsoft.com/en-us/p/astronomy-picture-of-the-day/9wzdncrfj1xh?activetab=pivot:overviewtab)
+* Get beautiful backgrounds every day
 
-astronomy picture of the dayz
+[Inkscape](https://inkscape.org/) (FOSS, Ninite)
 
-inkscape (FOSS, Ninite)
+[Docker](https://www.docker.com/)
+* Still a pain on Windows Home. Wonderful for linux and Mac
 
-Docker
-* Still a pain on Windows Basic. Wonderful for linux and Mac
-
-[wget for windows](https://eternallybored.org/misc/wget/)
+[Wget for Windows](https://eternallybored.org/misc/wget/)
 * just stick in somewhere in your path, C:\Windows
 
-* sumatra (pdf) - or just my web browser now
+[Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) (Ninite)
+* For reading pdfs
+* I mainly just my web browser now
 
-* Wireshark
+[Wireshark](https://www.wireshark.org/) (FOSS)
+* The clear winning for free network protocol analyzers
+
+Audacity (Ninite)
+
+## Messaging
+
+Discord (Ninite)
+
+Slack
 
 ## Latex Editor
 
-* texmaker
-** Requires a distribution with it. I like MIKTEX
+texmaker
+* Requires a distribution with it. I like MIKTEX
 
-* texmaker and pdflatex (through miktex)
+texmaker and pdflatex (through miktex)
 
 ## Hex editor
 * [HxD](https://mh-nexus.de/en/hxd/)
