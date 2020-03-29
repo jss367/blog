@@ -64,10 +64,10 @@ Note that you can also use a full IDE as a text editor. Only makes since if you'
 * Clear winner in my opinion for R IDE, although I don't use R much anymore
 
 ## Version Control
-* [Git](https://git-scm.com/)
-* [Github](https://github.com/)
-
-
+[Git](https://git-scm.com/)
+* Used in partnership with [Github](https://github.com/)
+* Git is great but frustrating when you [can't figure it out](https://xkcd.com/1597/) (yes, I've actually done this)
+* Github is amazing and makes git much more beginner-friendly
 
 # Web browsers
 I always have three or more web browsers on each computer. I use them for different things. All are very good.
