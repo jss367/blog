@@ -28,21 +28,21 @@ Agent ransack
 - Windows only, unfortunately
 
 ### Unzipping
-7-Zip
+[7-Zip](https://www.7-zip.org/download.html)
 - clear winner for Windows
 
 ### Checking disk space
-windirstat
+[WinDirStat](https://windirstat.net/index.html) (Windows only)
 
 # Programming
 
 ## Python distribution
 
-Anaconda
+[Anaconda](https://www.anaconda.com/distribution/)
 - now a no-brainer for data scientists
 
 ## IDE
-VSCode 
+[VSCode](https://code.visualstudio.com/)
 - Right now it's VSCode and I'm very happy with it. I have used many of the alternatives and in general I think there are a lot of good options, but I really like VSCode.
 
 We all know extensions are a lot of the reason that VSCode is so great. Some of the ones I use are:
@@ -132,7 +132,7 @@ image composite editor
 
 # Web browsers
 I always have three or more web browsers on each computer. I use them for different things. All are very good.
-* Google Chrome
+* [Google Chrome](https://www.google.com/chrome/)
 * Mozille Firefox
 * Brave
 
@@ -146,8 +146,8 @@ Spotify
 
 * Google backup and sync
 * Dropbox
-* Microsoft Onedrive
-* Pcloud drive
+* [Microsoft OneDrive](https://products.office.com/en-us/onedrive/online-cloud-storage)
+* [Pcloud Drive](https://www.pcloud.com/download-free-online-cloud-file-storage.html)
 
 Yes, I do use four different cloud services. All for slightly different purposes.
 
