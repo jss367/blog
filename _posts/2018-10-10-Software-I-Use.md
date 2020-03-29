@@ -26,9 +26,9 @@ I'm always curious how people set up their computers and what software packages 
 ## Utilities
 
 ### Searching for files
-[Agent Ransack](https://www.mythicsoft.com/agentransack/)
+[Agent Ransack](https://www.mythicsoft.com/agentransack/) (Windows only)
 - Perfect search tool. I strongly favor this over the (otherwise also very good) alternatives
-- Windows only, unfortunately
+- No equivalent for linux or mac, although there are strong built-in options
 
 ### Unzipping
 [7-Zip](https://www.7-zip.org/download.html)
