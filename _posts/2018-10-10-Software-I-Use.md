@@ -11,17 +11,17 @@ I'm always curious how people set up their computers and what software packages 
 
 ## Text Editors
 [Sublime Text](https://www.sublimetext.com/)
-* with package control
-* absolutely love this. Use it every day
+* Absolutely love this. Use it every day
+* With package control
 
 [Notepad ++](https://notepad-plus-plus.org/) (Ninite)
-* honorable mention but almost completely replaced by Sublime Text
+* Honorable mention but almost completely replaced by Sublime Text
 
 [Evernote](https://evernote.com/)
 * Really good but I just don't use it that much anymore
 
 [Atom](https://atom.io/)
-* I've used this but not strongly prefer Sublime Text, so almost never go back to it
+* I've used this but not strongly prefer the others, so almost never go back to it
 
 Note that you can also use a full IDE as a text editor. Only makes since if you're already using one though.
 
@@ -44,24 +44,24 @@ Note that you can also use a full IDE as a text editor. Only makes since if you'
 ## Python distribution
 
 [Anaconda](https://www.anaconda.com/distribution/)
-- now a no-brainer for data scientists
+- Now a no-brainer for data scientists
 
 ## IDE
 [VSCode](https://code.visualstudio.com/)
-- Right now it's VSCode and I'm very happy with it. I have used many of the alternatives and in general I think there are a lot of good options, but I really like VSCode.
+* Right now it's VSCode and I'm very happy with it. I have used many of the alternatives and in general I think there are a lot of good options, but I really like VSCode.
+* Configuring your IDE that way you like it is essential, and VSCode is incredibly extensible. First, here's how to access the settings:
+** Open the Command Palette: `CMD/CTRL + SHIFT + P`
+** You can use either the User Interface (`Preferences: Open Settings (UI)`) or edit the json directly `Preferences: Open Settings (JSON)`. 
+*** You can also jump to the settings or Command Palette by clicking on the settings wheel in the bottom left corner.
+* You can see (and copy) all the extensions and settings I use in my [Visual Studio Code Settings Sync Gist](https://gist.github.com/jss367/6574f6940f7c9603ffd949f42ca4f205)
 
-And, of course, configuring your IDE that way you like it is essential, and VSCode is incredibly extensible. First, here's how to access the settings:
+[PyCharm](https://www.jetbrains.com/pycharm/)
+* Honorable mention
+* I used to use this but since VSCode has improved it's remote support so much I haven't gone back
+* It is excellent though and I recommend 
 
-* Open the Command Palette: `CMD/CTRL + SHIFT + P`
-* You can use either the User Interface (`Preferences: Open Settings (UI)`) or edit the json directly `Preferences: Open Settings (JSON)`. 
-
-You can also jump to the settings or Command Palette by clicking on the settings wheel in the bottom left corner.
-
-You can see (and copy) all the extensions and settings I use in my [Visual Studio Code Settings Sync Gist](https://gist.github.com/jss367/6574f6940f7c9603ffd949f42ca4f205)
-
-* R 
-* Rstudio
-** Clear winner in my opinion for R IDE, although I don't use R much anymore
+[RStudio](https://rstudio.com/)
+* Clear winner in my opinion for R IDE, although I don't use R much anymore
 
 ## Version Control
 * [Git](https://git-scm.com/)
@@ -72,7 +72,7 @@ You can see (and copy) all the extensions and settings I use in my [Visual Studi
 # Web browsers
 I always have three or more web browsers on each computer. I use them for different things. All are very good.
 * [Google Chrome](https://www.google.com/chrome/) (Ninite)
-* Mozille Firefox (Ninite)
+* [Mozille Firefox](https://www.mozilla.org/en-US/firefox/) (Ninite)
 * [Brave](https://brave.com/)
 
 # Music
@@ -150,6 +150,9 @@ Still haven't found the perfect one. The two I've used most recently are:
 
 
 # Other
+
+Grammarly
+* Pretty good. I hope it keeps getting better as natural language processing improves
 
 * Clover
 ** this is really helpful but it's sketchy. It always alerts my antivirus software so I don't recommend it. I'm looking for an alternative
