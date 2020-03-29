@@ -138,20 +138,20 @@ You can actually copy the whole thing in my Gists: https://gist.github.com/jss36
 
 # Web browsers
 I always have three or more web browsers on each computer. I use them for different things. All are very good.
-* [Google Chrome](https://www.google.com/chrome/)
-* Mozille Firefox
+* [Google Chrome](https://www.google.com/chrome/) (Ninite)
+* Mozille Firefox (Ninite)
 * [Brave](https://brave.com/)
 
 
 
 # Music
-Spotify
+[Spotify](https://www.spotify.com/us/)
 - seems to have won the market for now
 
 # Cloud Storage
 
 * Google backup and sync
-* Dropbox
+* [Dropbox](https://www.dropbox.com/)
 * [Microsoft OneDrive](https://products.office.com/en-us/onedrive/online-cloud-storage)
 * [Pcloud Drive](https://www.pcloud.com/download-free-online-cloud-file-storage.html)
 
@@ -203,7 +203,7 @@ Still haven't found the perfect one. The two I've used most recently are:
 
 ## Managing Updates
 
-* patch my pc
+* [Patch My PC](https://patchmypc.com/home-updater-download) (Windows only)
 ** I'm still looking for something to help me automatically update software on my computer. So far I've gone with patch my pc but there's nothing I like
 
 
@@ -227,8 +227,7 @@ Still haven't found the perfect one. The two I've used most recently are:
 
 * astronomy picture of the dayz
 
-* inkscape (FOSS)
-
+* inkscape (FOSS, Ninite)
 
 * Docker
 ** Still a pain on Windows Basic. Wonderful for linux and Mac
@@ -239,8 +238,13 @@ Still haven't found the perfect one. The two I've used most recently are:
 
 * sumatra (pdf) - or just my web browser now
 
-
-texmaker - but NEED A DISTRIBUTION WITH IT - MIKTEX
-hxd (hex editor)
-
 * Wireshark
+
+## Latex Editor
+
+* texmaker
+** Requires a distribution with it. I like MIKTEX
+
+## Hex editor
+* [HxD](https://mh-nexus.de/en/hxd/)
+
