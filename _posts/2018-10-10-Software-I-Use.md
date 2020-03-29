@@ -50,9 +50,9 @@ Note that you can also use a full IDE as a text editor. Only makes since if you'
 [VSCode](https://code.visualstudio.com/)
 * Right now it's VSCode and I'm very happy with it. I have used many of the alternatives and in general I think there are a lot of good options, but I really like VSCode.
 * Configuring your IDE that way you like it is essential, and VSCode is incredibly extensible. First, here's how to access the settings:
-** Open the Command Palette: `CMD/CTRL + SHIFT + P`
-** You can use either the User Interface (`Preferences: Open Settings (UI)`) or edit the json directly `Preferences: Open Settings (JSON)`. 
-*** You can also jump to the settings or Command Palette by clicking on the settings wheel in the bottom left corner.
+  * Open the Command Palette: `CMD/CTRL + SHIFT + P`
+  * You can use either the User Interface (`Preferences: Open Settings (UI)`) or edit the json directly `Preferences: Open Settings (JSON)`. 
+    * You can also jump to the settings or Command Palette by clicking on the settings wheel in the bottom left corner.
 * You can see (and copy) all the extensions and settings I use in my [Visual Studio Code Settings Sync Gist](https://gist.github.com/jss367/6574f6940f7c9603ffd949f42ca4f205)
 
 [PyCharm](https://www.jetbrains.com/pycharm/)
