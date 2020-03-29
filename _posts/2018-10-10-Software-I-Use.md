@@ -65,6 +65,7 @@ Note that you can also use a full IDE as a text editor. Only makes since if you'
 
 ## Version Control
 [Git](https://git-scm.com/)
+* I think git has by-and-large won the version control market
 * Used in partnership with [Github](https://github.com/)
 * Git is great but frustrating when you [can't figure it out](https://xkcd.com/1597/) (yes, I've actually done this)
 * Github is amazing and makes git much more beginner-friendly
@@ -81,8 +82,9 @@ I always have three or more web browsers on each computer. I use them for differ
 
 # Cloud Storage
 
-Google backup and sync
+[Google backup and sync](https://www.google.com/drive/download/backup-and-sync/)
 * Unlimited photos, very good app
+* They keep renaming it, and I expect that to continue. It's Google
 [Dropbox](https://www.dropbox.com/)
 * Poor website interface but other than that one of my favorites
 [Microsoft OneDrive](https://products.office.com/en-us/onedrive/online-cloud-storage)
