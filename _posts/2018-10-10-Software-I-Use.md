@@ -11,11 +11,11 @@ I'm always curious how people set up their computers and what software packages 
 
 ## Notetaking
 [Sublime Text](https://www.sublimetext.com/)
-** with package control
-** absolutely love this. Use it every day
+* with package control
+* absolutely love this. Use it every day
 
 [Notepad ++](https://notepad-plus-plus.org/) (Ninite)
-** honorable mention but almost completely replaced by Sublime Text
+* honorable mention but almost completely replaced by Sublime Text
 
 [Evernote](https://evernote.com/)
 * really good but I just don't use it that much anymore
@@ -75,14 +75,18 @@ I always have three or more web browsers on each computer. I use them for differ
 
 # Music
 [Spotify](https://www.spotify.com/us/)
-- seems to have won the market for now
+* Seems to have won the market for now
 
 # Cloud Storage
 
-* Google backup and sync
-* [Dropbox](https://www.dropbox.com/)
-* [Microsoft OneDrive](https://products.office.com/en-us/onedrive/online-cloud-storage)
-* [Pcloud Drive](https://www.pcloud.com/download-free-online-cloud-file-storage.html)
+Google backup and sync
+* Unlimited photos, very good app
+[Dropbox](https://www.dropbox.com/)
+* Poor website interface but other than that one of my favorites
+[Microsoft OneDrive](https://products.office.com/en-us/onedrive/online-cloud-storage)
+* This does syncing very well
+[Pcloud Drive](https://www.pcloud.com/download-free-online-cloud-file-storage.html)
+* Not as good as the others but I still use it every day
 
 Yes, I do use four different cloud services. All for slightly different purposes.
 
@@ -90,25 +94,30 @@ Yes, I do use four different cloud services. All for slightly different purposes
 
 In Windows I use a mix, mostly because none of them are perfect. Here's a case (unlike browsers) that I would rather just have one
 
+[iTerm2](https://www.iterm2.com/)
+* Clear winner for Mac and my overall favorite. I wish Windows had this
+[Cmder](https://cmder.net/)*
+* Allows Unix style commands, makes switching between Mac and Linux and Windows much easier
+* [ConEmu](https://conemu.github.io/)
+** Top contender for best terminal in Windows. This is a really good terminal
+[Windows PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/getting-started/getting-started-with-windows-powershell?view=powershell-7)
+** Sometimes I like and it sometimes I don't...
+[Anaconda Prompt](https://www.anaconda.com/)
+** I only use this for Anaconda stuff
+[Windows Subsystem for Linux (WSL 2)](https://docs.microsoft.com/en-us/windows/wsl/wsl2-install)
+** Promising, definite promising. Keep working on it Microsoft!
+* [Ubuntu terminal](https://ubuntu.com/tutorials/tutorial-ubuntu-on-windows#1-overview)
+** Still a work in progress. (Currently not working for me, but has worked in the past. I'll update this once it's fixed and I start using it again.)
 
-* cmder
-** Allows Unix style commands, makes switching between Mac and Linux and Windows much easier
-* ConEmu
-** Top contender for best terminal
-* Windows PowerShell
-* Anaconda Prompt - for Anaconda stuff only
-* WSL 2
-* ubuntu terminal
-** Still a work in progress. (Currently not working for me)
-
-I have to say I like the terminal game in Mac better. For me, nothing beats iTerm2
+As you can see, I'm strewn across half a dozen terminals in Windows and have found the one on Mac. For me, nothing beats iTerm2.
 
 # Office Suite
-* [Google Docs](https://www.google.com/docs/about/)
-* [Google Slides](https://www.google.com/slides/about/)
-* [LibreOffice](https://www.libreoffice.org/) (Ninite)
-** I actually don't use this very much anymore. For work I usually stick to Google's online offerings
-
+[Google Docs](https://www.google.com/docs/about/)
+* Don't love it, but great for sharing and multi-person editing
+[Google Slides](https://www.google.com/slides/about/)
+* I prefer Excel, but it's free and I don't use spreadsheet enough to buy Excel
+[LibreOffice](https://www.libreoffice.org/) (Ninite)
+** I prefer this to Google's offerings but I actually don't use this very much anymore.
 
 # Security
 
@@ -116,12 +125,14 @@ I have to say I like the terminal game in Mac better. For me, nothing beats iTer
 
 I have no loyalty to any of these. I usually just go with the top free one recommended. I've also used paid ones in the past but I don't know if it's worth it.
 
-* Malware Bytes
-* Avast
+[Malware Bytes](https://www.malwarebytes.com/)
+[Avast](https://www.avast.com/en-us/index#pc)
+* The free version has so many obnoxious popups it's basically adware. So you install adware to avoid malware, most of which is adware... I guess I'm supposed to buy the paid version. It's hard to know how good your anti-virus software is.
 
 ## VPN
 
-I do not have a favorite VPN and I've tried many, both paid and free. Right now I'm using [Windscribe](https://windscribe.com/). It's... OK
+[Windscribe](https://windscribe.com/)
+* I do not have a favorite VPN and I've tried many, both paid and free. Right now I'm using this. It's... OK
 
 ## Password Managers
 
