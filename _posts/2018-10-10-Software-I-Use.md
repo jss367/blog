@@ -103,16 +103,22 @@ In Windows I use a mix, mostly because none of them are perfect. Here's a case (
 
 [iTerm2](https://www.iterm2.com/)
 * Clear winner for Mac and my overall favorite. I wish Windows had this
+
 [Cmder](https://cmder.net/)*
 * Allows Unix style commands, makes switching between Mac and Linux and Windows much easier
+
 [ConEmu](https://conemu.github.io/)
 * Top contender for best terminal in Windows. This is a really good terminal
+
 [Windows PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/getting-started/getting-started-with-windows-powershell?view=powershell-7)
 * Sometimes I like and it sometimes I don't...
+
 [Anaconda Prompt](https://www.anaconda.com/)
 * I only use this for Anaconda stuff
+
 [Windows Subsystem for Linux (WSL 2)](https://docs.microsoft.com/en-us/windows/wsl/wsl2-install)
 * Promising, definite promising. Keep working on it Microsoft!
+
 [Ubuntu terminal](https://ubuntu.com/tutorials/tutorial-ubuntu-on-windows#1-overview)
 * Still a work in progress. (Currently not working for me, but has worked in the past. I'll update this once it's fixed and I start using it again.)
 
@@ -153,10 +159,22 @@ Still haven't found the perfect one. The two I've used most recently are:
 [Patch My PC](https://patchmypc.com/home-updater-download) (Windows only)
 * I'm still looking for something to help me automatically update software on my computer. So far I've gone with patch my pc but there's nothing I like
 
+## Photography
+
+Adobe lightroom
+
+[Image Composite Editor](https://www.microsoft.com/en-us/research/project/image-composite-editor/)
+* Free tool from Microsoft to stitch images for panoramas. Works better than Lightroom
+
+[StarStaX](https://markus-enzweiler.de/software/starstax/)
+* Great for making star trails
+* Really nice simple piece of software that does one thing well
+
+https://transit-finder.com/
 
 # Other
 
-Grammarly
+[Grammarly](https://www.grammarly.com/)
 * Pretty good. I hope it keeps getting better as natural language processing improves
 
 Clover
@@ -164,26 +182,21 @@ Clover
 
 * [Google Earth](https://www.google.com/earth/)
 
-* Auto hotkey
+Auto hotkey
 
-* [Speccy](https://www.ccleaner.com/speccy) (Windows only)
+[Speccy](https://www.ccleaner.com/speccy) (Windows only)
 
-* vlc
-* adobe lightroom
-* image composite editor
+vlc
 
-* texmaker and pdflatex (through miktex)
+astronomy picture of the dayz
 
-* astronomy picture of the dayz
+inkscape (FOSS, Ninite)
 
-* inkscape (FOSS, Ninite)
+Docker
+* Still a pain on Windows Basic. Wonderful for linux and Mac
 
-* Docker
-** Still a pain on Windows Basic. Wonderful for linux and Mac
-
-* [wget for windows](https://eternallybored.org/misc/wget/)
-** just stick in somewhere in your path, C:\Windows
-
+[wget for windows](https://eternallybored.org/misc/wget/)
+* just stick in somewhere in your path, C:\Windows
 
 * sumatra (pdf) - or just my web browser now
 
@@ -193,6 +206,8 @@ Clover
 
 * texmaker
 ** Requires a distribution with it. I like MIKTEX
+
+* texmaker and pdflatex (through miktex)
 
 ## Hex editor
 * [HxD](https://mh-nexus.de/en/hxd/)
