@@ -104,9 +104,9 @@ Yes, I do use four different cloud services. All for slightly different purposes
 In Windows I use a mix, mostly because none of them are perfect. Here's a case (unlike browsers) that I would rather just have one
 
 * cmder
-- Allows *nix style commands, makes switching between Mac and Linux and Windows much easier
+** Allows *nix style commands, makes switching between Mac and Linux and Windows much easier
 * ConEmu
-- Top contender
+** Top contender for best terminal
 * Windows PowerShell
 * Anaconda Prompt - for Anaconda stuff only
 * WSL 2
