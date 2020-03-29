@@ -9,7 +9,7 @@ I'm always curious how people set up their computers and what software packages 
 
 # General
 
-## Notetaking
+## Text Editors
 [Sublime Text](https://www.sublimetext.com/)
 * with package control
 * absolutely love this. Use it every day
@@ -18,10 +18,12 @@ I'm always curious how people set up their computers and what software packages 
 * honorable mention but almost completely replaced by Sublime Text
 
 [Evernote](https://evernote.com/)
-* really good but I just don't use it that much anymore
+* Really good but I just don't use it that much anymore
 
 [Atom](https://atom.io/)
 * I've used this but not strongly prefer Sublime Text, so almost never go back to it
+
+Note that you can also use a full IDE as a text editor. Only makes since if you're already using one though.
 
 ## Utilities
 
