@@ -116,7 +116,7 @@ In Windows I use a mix, mostly because none of them are perfect. Here's a case (
 [iTerm2](https://www.iterm2.com/)
 * Clear winner for Mac and my overall favorite. I wish Windows had this
 
-[Cmder](https://cmder.net/)*
+[Cmder](https://cmder.net/)
 * Allows Unix style commands, makes switching between Mac and Linux and Windows much easier
 
 [ConEmu](https://conemu.github.io/)
