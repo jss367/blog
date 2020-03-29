@@ -45,6 +45,30 @@ Anaconda
 VSCode 
 - Right now it's VSCode and I'm very happy with it. I have used many of the alternatives and in general I think there are a lot of good options, but I really like VSCode.
 
+We all know extensions are a lot of the reason that VSCode is so great. Some of the ones I use are:
+* autoDocstring
+* Better Comments
+* Code Runner
+* GitLens - Git supercharged
+* Python
+* Remote - WSL (Windows only)
+* Remote - SSH
+* Remote - Containers
+* Docker
+* Visual Studio IntelliCode
+
+
+
+And, of course, configuring your IDE that way you like it is essential. Here are the configurations I use:
+```
+{
+    "editor.rulers": [80, 120],
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.autopep8Args":["--aggressive", "--aggressive", "--max-line-length", "120", "--ignore", "E26"],
+}
+```
+
 R and Rstudio
 
 
