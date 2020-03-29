@@ -4,26 +4,29 @@ title: "Software I Use"
 tags: [Software]
 ---
 
-I'm always curious how people set up their computers and what software packages they have, so I thought I would share mine. I use Windows, Mac, and Linux, so the exact setup varies.
+I'm always curious how people set up their computers and what software packages they have, so I thought I would share mine. I use Windows, Mac, and Linux, so the exact setup varies. Many of these can be installed with [Ninite](https://ninite.com/).
 
 
 # General
 
 ## Notetaking
-Sublime Text
-- with package control
-- absolutely love this. Use it every day
+* [Sublime Text](https://www.sublimetext.com/)
+** with package control
+** absolutely love this. Use it every day
 
-Notepad ++
-- honorable mention but almost completely replaced by Sublime Text
+* [Notepad ++](https://notepad-plus-plus.org/) (Ninite)
+** honorable mention but almost completely replaced by Sublime Text
 
-Evernote
-- really good but I just don't use it that much anymore
+* [Evernote](https://evernote.com/)
+** really good but I just don't use it that much anymore
+
+* [Atom](https://atom.io/)
+** I've used this but not strongly prefer Sublime Text, so almost never go back to it
 
 ## Utilities
 
 ### Searching for files
-Agent ransack
+[Agent Ransack](https://www.mythicsoft.com/agentransack/)
 - Perfect search tool. I strongly favor this over the (otherwise also very good) alternatives
 - Windows only, unfortunately
 
@@ -121,20 +124,23 @@ Here are the configurations I use:
 
 You can actually copy the whole thing in my Gists: https://gist.github.com/jss367/6574f6940f7c9603ffd949f42ca4f205
 
-R and Rstudio
+* R 
+* Rstudio
+** Clear winner in my opinion for R IDE, although I don't use R much anymore
+
+## Version Control
+* [Git](https://git-scm.com/)
+* [Github](https://github.com/)
 
 
-vlc
-adobe lightroom
-image composite editor
 
-(from ninite)
+
 
 # Web browsers
 I always have three or more web browsers on each computer. I use them for different things. All are very good.
 * [Google Chrome](https://www.google.com/chrome/)
 * Mozille Firefox
-* Brave
+* [Brave](https://brave.com/)
 
 
 
@@ -155,72 +161,86 @@ Yes, I do use four different cloud services. All for slightly different purposes
 
 In Windows I use a mix, mostly because none of them are perfect. Here's a case (unlike browsers) that I would rather just have one
 
+
 * cmder
-** Allows *nix style commands, makes switching between Mac and Linux and Windows much easier
+** Allows Unix style commands, makes switching between Mac and Linux and Windows much easier
 * ConEmu
 ** Top contender for best terminal
 * Windows PowerShell
 * Anaconda Prompt - for Anaconda stuff only
 * WSL 2
-* ubuntu
-
-terminal
+* ubuntu terminal
+** Still a work in progress. (Currently not working for me)
 
 I have to say I like the terminal game in Mac better. For me, nothing beats iTerm2
 
+# Office Suite
+* [Google Docs](https://www.google.com/docs/about/)
+* [Google Slides](https://www.google.com/slides/about/)
+* [LibreOffice](https://www.libreoffice.org/) (Ninite)
+** I actually don't use this very much anymore. For work I usually stick to Google's online offerings
 
-# Malware protection
+
+# Security
+
+## Malware protection
 
 I have no loyalty to any of these. I usually just go with the top free one recommended. I've also used paid ones in the past but I don't know if it's worth it.
 
-malware bytes
-avast
+* Malware Bytes
+* Avast
 
-# Office Suite
-libreoffice
-- I actually don't use this very much anymore. For work I usually stick to Google's online offerings
+## VPN
+
+I do not have a favorite VPN and I've tried many, both paid and free. Right now I'm using [Windscribe](https://windscribe.com/). It's... OK
+
+## Password Managers
+
+Still haven't found the perfect one. The two I've used most recently are:
+
+* [Keepass](https://keepass.info/) (FOSS)
+* [Dashlane](https://www.dashlane.com/) (paid)
+
+## Managing Updates
+
+* patch my pc
+** I'm still looking for something to help me automatically update software on my computer. So far I've gone with patch my pc but there's nothing I like
+
 
 # Other
 
-clover - this is really helpful but it's sketchy. It always alerts my antivirus software so I don't recommend it. I'm looking for an alternative
+* Clover
+** this is really helpful but it's sketchy. It always alerts my antivirus software so I don't recommend it. I'm looking for an alternative
 
 
-google earth
+* [Google Earth](https://www.google.com/earth/)
 
-windscribe
+* Auto hotkey
 
-autowrite thing
+* [Speccy](https://www.ccleaner.com/speccy) (Windows only)
 
-auto hotkey
+* vlc
+* adobe lightroom
+* image composite editor
 
-Speccy
-- Windows only
+* texmaker and pdflatex (through miktex)
 
-git
-github
+* astronomy picture of the dayz
 
-texmaker and pdflatex (through miktex)
-
-astronomy picture of the dayz
+* inkscape (FOSS)
 
 
-inkscape
-keepass - dashlane, although far from perfect
+* Docker
+** Still a pain on Windows Basic. Wonderful for linux and Mac
+
+* [wget for windows](https://eternallybored.org/misc/wget/)
+** just stick in somewhere in your path, C:\Windows
 
 
-docker
-- Still a pain on Windows. Wonderful for linux and Mac
+* sumatra (pdf) - or just my web browser now
 
-wget for windows - 
-https://eternallybored.org/misc/wget/
-- just stick in somewhere in your path, C:\Windows
-
-
-sumatra (pdf) - or just my web browser now
-
-patch my pc
-- I'm still looking for something to help me automatically update software on my computer. So far I've gone with patch my pc but there's nothing I like
 
 texmaker - but NEED A DISTRIBUTION WITH IT - MIKTEX
 hxd (hex editor)
 
+* Wireshark
