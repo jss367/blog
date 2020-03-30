@@ -138,8 +138,10 @@ As you can see, I'm strewn across half a dozen terminals in Windows and have fou
 # Office Suite
 [Google Docs](https://www.google.com/docs/about/)
 * Don't love it, but great for sharing and multi-person editing
+
 [Google Slides](https://www.google.com/slides/about/)
 * I prefer Excel, but it's free and I don't use spreadsheet enough to buy Excel
+
 [LibreOffice](https://www.libreoffice.org/) (FOSS, Ninite)
 * I prefer this to Google's offerings but I don't use this very much anymore.
 
@@ -174,9 +176,10 @@ Still haven't found the perfect one. The two I've used most recently are:
 
 ## Messaging
 
-Discord (Ninite)
+[Discord](https://discordapp.com/) (Ninite)
 
-Slack
+[Slack](https://slack.com/)
+* I can't believe this took so long to be invented. This is how communication should be
 
 # Latex Editor
 
@@ -191,13 +194,14 @@ texmaker and pdflatex (through miktex)
 
 # Video conferencing
 
-Zoom (Ninite)
+[Zoom](https://zoom.us/) (Ninite)
 
-Google Hangouts
+[Google Hangouts](https://hangouts.google.com/)
 
 # Photography
 
-Adobe Lightroom
+[Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)
+* As much as I'd like to say (GIMP)[https://www.gimp.org/] is just as good, it's no match for the features of Lightroom. For someone who spends serious time editing photos, I don't think there's a better alternative.
 
 [Image Composite Editor](https://www.microsoft.com/en-us/research/project/image-composite-editor/)
 * Free tool from Microsoft to stitch images for panoramas. Works better than Lightroom
