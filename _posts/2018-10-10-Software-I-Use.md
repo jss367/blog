@@ -181,7 +181,7 @@ Still haven't found the perfect one. The two I've used most recently are:
 [Slack](https://slack.com/)
 * I can't believe this took so long to be invented. This is how communication should be
 
-# Latex Editor
+# LaTeX Editor
 
 [Texmaker](https://www.xm1math.net/texmaker/)
 * Requires a distribution with it. I like MIKTEX
