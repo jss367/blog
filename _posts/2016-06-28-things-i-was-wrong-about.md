@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Things I've Changed My Mind On
-excerpt: Vaccines, GMP, the Internet
+title:  Things I Was Wrong About
+excerpt: Vaccines, GMO, the Internet
 ---
 
 These are things I was wrong about.
