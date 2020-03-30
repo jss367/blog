@@ -183,10 +183,9 @@ Still haven't found the perfect one. The two I've used most recently are:
 
 # Latex Editor
 
-texmaker
+[Texmaker](https://www.xm1math.net/texmaker/)
 * Requires a distribution with it. I like MIKTEX
-
-texmaker and pdflatex (through miktex)
+* I also recommend pdflatex (through miktex)
 
 # Hex editor
 * [HxD](https://mh-nexus.de/en/hxd/)
@@ -201,7 +200,7 @@ texmaker and pdflatex (through miktex)
 # Photography
 
 [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)
-* As much as I'd like to say (GIMP)[https://www.gimp.org/] is just as good, it's no match for the features of Lightroom. For someone who spends serious time editing photos, I don't think there's a better alternative.
+* As much as I'd like to say [GIMP](https://www.gimp.org/ )tis just as good, it's no match for the features of Lightroom. For someone who spends serious time editing photos, I don't think there's a better alternative.
 
 [Image Composite Editor](https://www.microsoft.com/en-us/research/project/image-composite-editor/)
 * Free tool from Microsoft to stitch images for panoramas. Works better than Lightroom
