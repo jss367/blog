@@ -135,6 +135,12 @@ In Windows, I use a mix, mostly because none of them are perfect. Here's a case 
 
 As you can see, I'm strewn across half a dozen terminals in Windows and have found the one on Mac. For me, nothing beats iTerm2.
 
+# Shells
+[Oh My Zsh](https://ohmyz.sh/)
+* Default on Mac now
+* You can also [install it on Windows](https://winsmarts.com/running-oh-my-zsh-on-windows-10-6fcb0fbc736b)
+* Overall, I like it. Easy to customize
+
 # Office Suite
 [Google Docs](https://www.google.com/docs/about/)
 * Don't love it, but great for sharing and multi-person editing
