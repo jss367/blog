@@ -136,8 +136,9 @@ In Windows, I use a mix, mostly because none of them are perfect. Here's a case 
 As you can see, I'm strewn across half a dozen terminals in Windows and have found the one on Mac. For me, nothing beats iTerm2.
 
 # Shells
-[Oh My Zsh](https://ohmyz.sh/)
+[Zsh](http://zsh.sourceforge.net/)
 * Default on Mac now
+* Manage it with [Oh My Zsh](https://ohmyz.sh/)
 * You can also [install it on Windows](https://winsmarts.com/running-oh-my-zsh-on-windows-10-6fcb0fbc736b)
 * Overall, I like it. Easy to customize
 
