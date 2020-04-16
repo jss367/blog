@@ -142,6 +142,15 @@ As you can see, I'm strewn across half a dozen terminals in Windows and have fou
 * You can also [install it on Windows](https://winsmarts.com/running-oh-my-zsh-on-windows-10-6fcb0fbc736b)
 * Overall, I like it. Easy to customize
 
+Example zsh prompt:
+```
+parse_git_branch() {
+     git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/(\1)/'
+}
+# customize the zsh prompt
+PS1='%B%F{green}%(?.%F{green}√.%F{red}X:%?) %B%F{251} %1~ $(parse_git_branch)\ %# '
+```
+
 # Office Suite
 [Google Docs](https://www.google.com/docs/about/)
 * Don't love it, but great for sharing and multi-person editing
