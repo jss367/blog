@@ -22,7 +22,7 @@ I'm always curious about how people set up their computers and what software pac
 [Atom](https://atom.io/)
 * I've used this but not strongly prefer the others, so rarely go back to it
 
-Note that you can also use a full IDE as a text editor. Only makes since if you're already using one though.
+Note that you can also use a full IDE as a text editor. Only makes sense if you're already using one though.
 
 ## Utilities
 
@@ -40,7 +40,7 @@ Still looking for one on Windows that I like
 
 ### Unzipping
 [7-Zip](https://www.7-zip.org/download.html) (Ninite)
-- Clear winner for Windows
+- The clear winner for Windows
 
 ### Checking disk space
 [WinDirStat](https://windirstat.net/index.html) (Windows only) (Ninite)
@@ -86,13 +86,13 @@ Yes, I do use four different cloud services (actually more, but these are the on
 
 ## IDE
 [VSCode](https://code.visualstudio.com/) (Ninite)
-* Right now it's VSCode and I'm very happy with it. I have used many of the alternatives and, in general, I think there are a lot of good options, but I really like VSCode.
+* Right now it's VSCode and I'm very happy with it. I have used many of the alternatives and, in general, I think there are a lot of good options, but I like VSCode.
 * Configuring your IDE that way you like it is essential, and VSCode is incredibly extensible.
 
 [PyCharm](https://www.jetbrains.com/pycharm/)
 * Honorable mention
-* I used to use this but since VSCode has improved it's remote support so much I haven't gone back
-* It is excellent though and I recommend 
+* I used to use this but since VSCode has improved its remote support so much I haven't gone back
+* It is excellent though and I recommend it
 
 [RStudio](https://rstudio.com/)
 * The clear winner in my opinion for R IDE, although I don't use R much anymore
@@ -101,7 +101,7 @@ Yes, I do use four different cloud services (actually more, but these are the on
 [Git](https://git-scm.com/)
 * I think git has by-and-large won the version control market
 * Used in partnership with [Github](https://github.com/)
-* Git is great but frustrating when you [can't figure it out](https://xkcd.com/1597/) (yes, I've actually done this)
+* Git is great but frustrating when you [can't figure it out](https://xkcd.com/1597/) (yes, I've done this)
 * Github is amazing and makes git much more beginner-friendly
 
 # Terminals
