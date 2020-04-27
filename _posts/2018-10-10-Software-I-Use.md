@@ -127,7 +127,7 @@ In Windows, I use a mix, mostly because none of them are perfect. Here's a case 
 * Promising, definite promising. Keep working on it Microsoft!
 
 [Ubuntu terminal](https://ubuntu.com/tutorials/tutorial-ubuntu-on-windows#1-overview)
-* Still a work in progress. (Currently not working for me, but has worked in the past. I'll update this once it's fixed and I start using it again.)
+* Still a work in progress. Gets better all the time but still has room for improvement.
 
 As you can see, I'm strewn across half a dozen terminals in Windows and have found the one on Mac. For me, nothing beats iTerm2.
 
