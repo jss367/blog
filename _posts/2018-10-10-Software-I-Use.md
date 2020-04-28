@@ -4,7 +4,7 @@ title: "Software I Use"
 tags: [Software]
 ---
 
-I'm always curious about how people set up their computers and what software packages they have, so I thought I would share mine. I use Windows, Mac, and Linux, so the exact setup varies. Many of these can be installed with [Ninite](https://ninite.com/).
+I'm always curious about how people set up their computers and what software packages they have, so I thought I would share mine. I use Windows, Mac, and Linux, so the exact setup varies. For those of you on Windows, many of these can be installed with [Ninite](https://ninite.com/).
 
 # General
 
