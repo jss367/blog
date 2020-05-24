@@ -53,6 +53,12 @@ Mac: option + shift ++ o
 Control + Space to open snippets
 This makes it easy to do things like type `main` and get if __name__ == 'main'...
 
+## Extensions
+
+#### Extensions to try
+
+https://marketplace.visualstudio.com/items?itemName=jithurjacob.nbpreviewer
+
 ## Terminal
 
 The built-in terminal is a wonderful idea. You can pull it up with control + '`', on either mac or windows. You can also pull it up from dragging up from the bottom of the screen.
