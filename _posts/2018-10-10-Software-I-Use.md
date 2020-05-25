@@ -253,3 +253,8 @@ Still haven't found the perfect one. The two I've used most recently are:
 [Wireshark](https://www.wireshark.org/) (FOSS)
 * The clear winner for free network protocol analyzers
 
+## Research
+
+[Mendeley](https://www.mendeley.com/download-desktop-new/)
+* The best app for keeping track of scientific papers
+* Definitely use the browser extensions as well
