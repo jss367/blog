@@ -44,10 +44,8 @@ Clean up imports:
 
 - allows you to both sort and organize.
 
-Windows: Option + Shift + O
-Mac: option + shift ++ o
-
-
+* Windows: Alt + Shift + O
+* Mac: option + shift + O
 
 
 Control + Space to open snippets
