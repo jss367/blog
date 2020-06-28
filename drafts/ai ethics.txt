@@ -4,6 +4,38 @@ ai ethics
 Practitioners need to wake up. This is going to be regulated. Do we want it regulated by 1. people who do understand it or 2. people who do.
 
 
+Ai is leaving a state of childhood and entering a state of maturity
+
+
+
+ai ethics
+at the end of these posts, i want to come out for or against things:
+facial recognition
+- other things...
+- what capabilities governments should have
+- what capabilities  private companies should have
+
+face recognition
+- creepy things like taking pictures of people without their consent
+
+identify protesters, then try to find them doing something illegal
+- should it be banned against peaceful protest
+
+8 out of 42 were verifiably correct... what does verifiably mean in this context?
+https://www.bbc.com/news/uk-51237665
+
+use the image of the crying woman yelling at  the cat labeled as a dog as an example for how you used to think of it.
+
+clearview.ai uses info they scrapped... probably against terms of service
+
+let's talk about how it fails, but first let's talk about whether we would want it or not if it didn't fail
+
+given the falliability of law enforcement, how much power should they have?
+
+these videos of people designing themselves aren't practical. and they probably won't work for long. whether they work depends on the actual sensor being used and a whole lot of details. it's not scalable. it's not the solution
+
+
+
 
 different across genders
 
