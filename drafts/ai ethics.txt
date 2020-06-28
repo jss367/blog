@@ -174,3 +174,6 @@ It's certainly true that models trained on machine learning are a reflection of 
 
 
 
+there are architecture decisions that can result in more or fewer minority values showing up. l2 would have fewer, l1 would have more. but this is pretty far removed from the values-seems less valuable... do it with the data
+
+
