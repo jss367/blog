@@ -62,6 +62,21 @@ Originally they didn't
 
 
 
+## Ground Understanding
+
+#### Facial Recognition Is EASY
+
+one thing i want people to understand is that this tech is easy. it's really really easy. now that the hard work is done anyone with basic coding skills should be able to get a basic facial recognition prototype done over the weekend. that's how easy it is.
+
+This has implications:
+1. You're not going to stop the technology from proliferating. These are nuclear weapons that require centrifuges. Anyone with a laptop (or even a Raspberry Pi) can do this.
+
+it's not just about big companies not doing it
+
+
+
+
+
 
 Could we do something complex?
 There are ways to teach a GAN to find and remove racism from algorithms, but there's not way to get the public to understand what a GAN is.
@@ -193,6 +208,23 @@ i find it's too easy to just say "we need common sense reform". everyone celebra
 
 just like i'm a software engineer and dont want software involved in our elections(link)
 
+## Shortcut learning
+
+shortcut learning is going to be a problem.
+
+they will find the shortcut
+
+there is still research to do about this. i don't want to get too far into the details but perhaps these problems can be reduced by augmentation. i don't think very highly of using adversarial training, but we'll see. * because it's so unrealistic
+
+think through your distribution - it's easier to think clearly when you separate the logic from the emotional aspects, then, once you've got the logic sound, reapply it to the emotional situation. you have to be careful in doing this. don't misunderstand the situation. so we'll talk about cat detectors. did you include hairless cats in your training set?
+
+
+
+## Rate Limits
+
+Ai ethics: rate limiters on everything. This is a good model in general, even if it’s just spending your money. But it’s also good to do for ethical reasons. Maybe this crosses the line from ethics to just general good software engineering practices. Most of the time it won’t have to do with ethics. You should put a rate limit on how often you ping someone. Not sure if that’s an ethics question, but maybe just a good idea.
+
+This should prevent flash crash... very difficult to regulate.
 
 
 ## Limiting AI
@@ -202,6 +234,10 @@ You need to be constrain in some space.
 If you're predicting handwritten letters and that's all your model's output, you are constrained in output. You can go wild - through away that boring MNIST and train it pictures of cats - it won't work but it won't hurt anyone.
 
 
+
+## Domain Specific Constraints
+
+Ethics will be different depending on the domain you’re in. Look at the difference between Steve Jobs and Elizabeth Holmes. They both had reality distortion fields around them that made them unable to hear things like “there’s no way the product will be ready in that timeline”. But the difference is when Jobs’s things broke, it wasn’t medical. That’s a *big* difference. That’s the difference between dealing with angry customers and criminal charges. There are huge implications from a false medical test. Same if you’re in the criminal justice field. Things *will* move slower in these fields and that’s a **good** thing (although they can also move far, far too slowly. I just mean compared to something with low downside risk, like cat v. dog detection, it will be behind). The most advanced medical technology will not be as advanced as the most advanced cat v dog detection technology (which, btw, is incredibly accurate). The same is true for medical equipment for humans vs mice. The rules are lower for mice, so we know more.
 
 #### 
 
@@ -231,4 +267,15 @@ there are architecture decisions that can result in more or fewer minority value
 
 They have no idea what's going on. Five years ago he stated that he has never sent an email https://www.nbcnews.com/meet-the-press/lindsey-graham-ive-never-sent-email-n319571
 
+
+
+
+
+articles:
+
+https://onezero.medium.com/how-a-2018-research-paper-led-to-amazon-and-ibm-curbing-their-facial-recognition-programs-db9d6cb8a420
+https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28?utm_campaign=The%20Batch&utm_medium=email&_hsmi=90161920&_hsenc=p2ANqtz-_zJ1t-xMsV0bHhUJYL5c9XqA27AcA1uQ32SuZ1SliqMZEYOOz7ECW7NQ1q-9qPpSt5mxO6O4lhhk7ngG5lknL4x2YFFWLJh1uUezENzF0Dnh9fiwU&utm_content=90161920&utm_source=hs_email
+https://www.washingtonpost.com/technology/2019/05/16/police-have-used-celebrity-lookalikes-distorted-images-boost-facial-recognition-results-research-finds/?utm_campaign=The%20Batch&utm_medium=email&_hsmi=90161920&_hsenc=p2ANqtz-9ERgqghqdxYZ8YvP16iKYDVpMxdZXFZihQBweju7EWlQSpYknLOigIge4CHPlsv7iFmxovuMax6NaEkHxSasd-o1LManEbmTlaLTvmnDxDABaw59c&utm_content=90161920&utm_source=hs_email
+
+https://www.latimes.com/local/lanow/la-me-ln-calgangs-audit-20160811-snap-story.htmlhttps://www.theverge.com/2018/3/21/17144260/healthcare-medicaid-algorithm-arkansas-cerebral-palsyhttps://www.propublica.org/article/facebook-enabled-advertisers-to-reach-jew-haters
 
