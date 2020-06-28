@@ -1,12 +1,12 @@
 ai ethics
 
-
-Practitioners need to wake up. This is going to be regulated. Do we want it regulated by 1. people who do understand it or 2. people who do.
-
-
-Ai is leaving a state of childhood and entering a state of maturity
+## Intro
 
 
+Practitioners need to wake up. Ai is leaving a state of childhood and entering a state of maturity. This is going to be regulated. It's our job to make sure it's done with understand and care
+
+
+### Goal fo the post
 
 ai ethics
 at the end of these posts, i want to come out for or against things:
@@ -14,6 +14,14 @@ facial recognition
 - other things...
 - what capabilities governments should have
 - what capabilities  private companies should have
+
+I don't want to end with just "let's do common-sense reform". I want to get specific.
+
+I think it's important to have an idea of what would a fix look like. Sure, sometimes just pointing out a problem is useful, but in many cases, and specifcally in these because they're going to have to many problems and solutions are not going to be straightforward.
+
+It's a bit like saying there's a problem with rascism in the world. THere's just not much additional value in pointing it out. We need to be at the solution phase.
+
+
 
 face recognition
 - creepy things like taking pictures of people without their consent
@@ -53,9 +61,7 @@ Originally they didn't
 
 
 
-I think it's important to have an idea of what would a fix look like. Sure, sometimes just pointing out a problem is useful, but in many cases, and specifcally in these because they're going to have to many problems and solutions are not going to be straightforward.
 
-It's a bit like saying there's a problem with rascism in the world. THere's just not much additional value in pointing it out. We need to be at the solution phase.
 
 Could we do something complex?
 There are ways to teach a GAN to find and remove racism from algorithms, but there's not way to get the public to understand what a GAN is.
@@ -168,7 +174,8 @@ ythefuck was the person fired?- this boils down to the extra trust thing. it see
 it's kind of like the lap coat phonemenon, where you see people wearing labcoats on TV to bulk their credibility. a computer has ultimate credibility for some people.
 
 
-no one feels responsible, and for good reason. that's why it's such a difficult problem that requires attention.Data cleaning is the responsibility of the ml practitioner. You are responsible for thouroughly understanding your data. I spend most of my time messing with data. It's noisy and downright wrong many times. I run sanity check after sanity check on it. Even for a low consequence application (e.g. a hot dog not hot dog phone app), I would delve deeply into the data. As the importance of your work increases, so must your knowledge of the data. but the baseline is still really high. I think most people would be surprised by how much of the time of machine learning engineers consists of data cleaning.Here's an example of data not being cleaned well enough: https://www.latimes.com/local/lanow/la-me-ln-calgangs-audit-20160811-snap-story.htmlTHE ML ENGINEER IS RESPONSIBLE FOR THE DATA THAT GOES INTO THE ALGORITHM, UNLESS ANOTHER ML ENGINEER IN YOUR COMPANY VOUCHES FOR IT
+no one feels responsible, and for good reason. that's why it's such a difficult problem that requires attention.Data cleaning is the responsibility of the ml practitioner. You are responsible for thouroughly understanding your data. I spend most of my time messing with data. It's noisy and downright wrong many times. I run sanity check after sanity check on it. Even for a low consequence application (e.g. a hot dog not hot dog phone app), I would delve deeply into the data. As the importance of your work increases, so must your knowledge of the data. but the baseline is still really high. I think most people would be surprised by how much of the time of machine learning engineers consists of data cleaning.Here's an example of data not being cleaned well enough: https://www.latimes.com/local/lanow/la-me-ln-calgangs-audit-20160811-snap-story.html 
+THE ML ENGINEER IS RESPONSIBLE FOR THE DATA THAT GOES INTO THE ALGORITHM, UNLESS ANOTHER ML ENGINEER IN YOUR COMPANY VOUCHES FOR IT
 
 Have an honest debate - if you criticize a facial recognition algorithm for being worse with black people, then imagine it weren't. would you support it then? if not, you're being disingenuous by saying you don't support it because of the racial reason. you don't like it at all, so be honest and make *that* argument.
 some of the code is complete garbage: https://www.theverge.com/2018/7/26/17615634/amazon-rekognition-aclu-mug-shot-congress-facial-recognition
@@ -188,9 +195,15 @@ just like i'm a software engineer and dont want software involved in our electio
 
 
 
+## Limiting AI
+
+You need to be constrain in some space.
+
+If you're predicting handwritten letters and that's all your model's output, you are constrained in output. You can go wild - through away that boring MNIST and train it pictures of cats - it won't work but it won't hurt anyone.
 
 
 
+#### 
 
 
 
@@ -207,5 +220,15 @@ It's certainly true that models trained on machine learning are a reflection of 
 
 
 there are architecture decisions that can result in more or fewer minority values showing up. l2 would have fewer, l1 would have more. but this is pretty far removed from the values-seems less valuable... do it with the data
+
+
+
+#### Regulators
+
+> Is Twitter the same as what you do?
+
+- Senator Lindsey Graham question to Mark Zuckerberg
+
+They have no idea what's going on. Five years ago he stated that he has never sent an email https://www.nbcnews.com/meet-the-press/lindsey-graham-ive-never-sent-email-n319571
 
 
