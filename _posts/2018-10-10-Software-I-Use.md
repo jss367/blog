@@ -20,9 +20,14 @@ I'm always curious about how people set up their computers and what software pac
 * Really good but I just don't use it that much anymore
 
 [Atom](https://atom.io/)
-* I've used this but not strongly prefer the others, so rarely go back to it
+* I've used this but prefer the others, so rarely go back to it
 
 Note that you can also use a full IDE as a text editor. Only makes sense if you're already using one though.
+
+#### Editting Markdown
+
+[Zettlr](https://www.zettlr.com/)
+* I've recently started using this and like it so far.
 
 ## Utilities
 
@@ -75,7 +80,7 @@ I always have three or more web browsers on each computer. I use them for differ
 [Pcloud Drive](https://www.pcloud.com/download-free-online-cloud-file-storage.html)
 * Not as good as the others but I still use it every day
 
-Yes, I do use four different cloud services (actually more, but these are the ones I recommend). All for slightly different purposes. There's also SugarSync, which I haven't played with much yet.
+Yes, I do use four different cloud services (actually more, but these are the ones I recommend). All for slightly different purposes.
 
 # Programming
 
