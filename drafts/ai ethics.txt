@@ -64,9 +64,11 @@ Originally they didn't
 
 ## Ground Understanding
 
+### The Tech is here and it's easy
+
 #### Facial Recognition Is EASY
 
-one thing i want people to understand is that this tech is easy. it's really really easy. now that the hard work is done anyone with basic coding skills should be able to get a basic facial recognition prototype done over the weekend. that's how easy it is.
+one thing i want people to understand is that this tech is easy. it's really really easy. It wasn't easy to get to this point but given where we are at this point taking free tools and using it for facial recognition is easy. now that the hard work is done anyone with basic coding skills should be able to get a basic facial recognition prototype done over the weekend. that's how easy it is.
 
 This has implications:
 1. You're not going to stop the technology from proliferating. These are nuclear weapons that require centrifuges. Anyone with a laptop (or even a Raspberry Pi) can do this.
@@ -278,4 +280,16 @@ https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-f
 https://www.washingtonpost.com/technology/2019/05/16/police-have-used-celebrity-lookalikes-distorted-images-boost-facial-recognition-results-research-finds/?utm_campaign=The%20Batch&utm_medium=email&_hsmi=90161920&_hsenc=p2ANqtz-9ERgqghqdxYZ8YvP16iKYDVpMxdZXFZihQBweju7EWlQSpYknLOigIge4CHPlsv7iFmxovuMax6NaEkHxSasd-o1LManEbmTlaLTvmnDxDABaw59c&utm_content=90161920&utm_source=hs_email
 
 https://www.latimes.com/local/lanow/la-me-ln-calgangs-audit-20160811-snap-story.htmlhttps://www.theverge.com/2018/3/21/17144260/healthcare-medicaid-algorithm-arkansas-cerebral-palsyhttps://www.propublica.org/article/facebook-enabled-advertisers-to-reach-jew-haters
+
+
+AGI - wildly inflated by the media. We're not on a path to it. We're not close. Before we get close we'll know a lot more about it. This creates a lot of unecessary concern and distracts. It is a distraction. Not worth saying more about. Though the tips in this post 
+Omnipotent superintelligence
+The path we're on does not lead to this (See agency problem post).
+
+We are many scientific breakthroughs away from this. As these are true, paradigm-shifting breakthroughs, I don't believe there's any meaningful way to estimate how far away from them we are.
+
+
+
+
+Our current system of borders will struggle to smartly regulate AI. Requires global cooperation.
 
