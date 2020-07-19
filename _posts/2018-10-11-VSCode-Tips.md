@@ -84,7 +84,43 @@ or
 
 
 ## launch.json ##
-justmycode is useful
+
+Writing launch.json files is very useful. It makes it easy to run files in different configurations, such as passing different arguments. Here's the default starting place:
+
+```json
+{
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+```
+
+Here's an example with arguments:
+
+```json
+
+{
+            "name": "Python: Run New  Config",
+            "type": "python",
+            "request": "launch",
+            "program": "/full/path/to/file.py",
+            "console": "internalConsole",
+            "justMyCode": false,
+            "args": [
+                "--config",
+                "my_config",
+                "--num_gpus",
+                "2",
+
+            ]
+        },
+
+```
+
+
+justMyCode is useful
 - defaults to true
 - restricts debugging to only the user-written code
 

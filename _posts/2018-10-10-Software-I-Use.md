@@ -263,3 +263,9 @@ Still haven't found the perfect one. The two I've used most recently are:
 [Mendeley](https://www.mendeley.com/download-desktop-new/)
 * The best app for keeping track of scientific papers
 * Definitely use the browser extensions as well
+
+
+## Evaluating:
+
+* GitKraken
+** Seems good so far, although the free version doesn't work for private repos.

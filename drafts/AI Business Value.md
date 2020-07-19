@@ -31,3 +31,8 @@ You need data and compute. Are you paying for the data? You need to incorporate 
 ## Bad Examples
 
 Doing you taxes. This should be done deterministically. Would also need to be reviewed by a human.
+
+
+
+https://mebassett.info/ai-useless-for-business
+
