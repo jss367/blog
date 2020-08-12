@@ -269,3 +269,7 @@ Still haven't found the perfect one. The two I've used most recently are:
 
 * GitKraken
 ** Seems good so far, although the free version doesn't work for private repos.
+
+* CyberDuck
+
+* Postico
