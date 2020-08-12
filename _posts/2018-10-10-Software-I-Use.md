@@ -157,7 +157,7 @@ PS1='%B%F{green}%(?.%F{green}√.%F{red}X:%?) %B%F{251} %1~ $(parse_git_branch)\
 * Don't love it, but great for sharing and multi-person editing
 
 [Google Slides](https://www.google.com/slides/about/)
-* I prefer Excel, but it's free and I don't use spreadsheet enough to buy Excel
+* I prefer Excel, but it's free and I don't use spreadsheets enough to buy Excel
 
 [LibreOffice](https://www.libreoffice.org/) (FOSS, Ninite)
 * I prefer this to Google's offerings but I don't use this very much anymore.
