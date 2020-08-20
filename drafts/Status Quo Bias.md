@@ -12,3 +12,7 @@ Another example is the [complexity of language](). Why do we put up with languag
 Status Quo bias might be more of an effect than a bias in its own right. In many ways, it's a manifestation of the bias that people are unhappy about a loss more than they are happy about a gain of the same value. So in this case, there is a status quo so any reduction from it will be condidered a loss.
 But this wouldn't fully explain the seatbelt in buses situation, where there is no loss.
 
+
+
+The fear of new weapons vs nuclear weapons
+
