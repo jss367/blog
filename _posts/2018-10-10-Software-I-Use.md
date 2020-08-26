@@ -57,7 +57,7 @@ Still looking for one on Windows that I like
 
 [ncdu](https://dev.yorhel.nl/ncdu)
 
-## Web Drowsers
+## Web Browsers
 I always have three or more web browsers on each computer. I use them for different things. All are very good.
 * [Google Chrome](https://www.google.com/chrome/) (Ninite)
 * [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) (Ninite)
