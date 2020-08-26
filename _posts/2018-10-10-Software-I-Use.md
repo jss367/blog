@@ -315,3 +315,5 @@ Still haven't found the perfect one. The two I've used most recently are:
 * CyberDuck
 
 * Postico
+
+* HyperSwitch
