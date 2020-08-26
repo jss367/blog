@@ -36,5 +36,5 @@ GMO
 
 
 
-Thingsi was wrong about: Alvin toffler in book future shock 1970 said because if information overload we would over simplify the world as it got more complex and just confirm our biases
+Things I was wrong about: Alvin toffler in book future shock 1970 said because if information overload we would over simplify the world as it got more complex and just confirm our biases
 
