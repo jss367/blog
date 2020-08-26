@@ -18,6 +18,7 @@ I'm always curious about how people set up their computers and what software pac
 
 [Evernote](https://evernote.com/) (Ninite)
 * Really good but I just don't use it that much anymore
+* Good for long-term memory stuff, receipts
 
 [Atom](https://atom.io/)
 * I've used this but prefer the others, so rarely go back to it
@@ -28,6 +29,10 @@ Note that you can also use a full IDE as a text editor. Only makes sense if you'
 
 [Zettlr](https://www.zettlr.com/)
 * I've recently started using this and like it so far.
+* I don't like how it defaults to asking you to name a file for a new file but you can turn that off in the preferences
+
+[Mark Text]([https://marktext.app/](https://marktext.app/))
+* Here's the other one I use a lot. I recommend them both, about equally.
 
 ## Utilities
 
@@ -50,11 +55,17 @@ Still looking for one on Windows that I like
 ### Checking disk space
 [WinDirStat](https://windirstat.net/index.html) (Windows only) (Ninite)
 
-## Web browsers
+[ncdu](https://dev.yorhel.nl/ncdu)
+
+## Web Drowsers
 I always have three or more web browsers on each computer. I use them for different things. All are very good.
 * [Google Chrome](https://www.google.com/chrome/) (Ninite)
 * [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) (Ninite)
 * [Brave](https://brave.com/)
+
+### Brower Extensions
+* AdBlockPlus
+* BitWarden
 
 ## Media
 [Spotify](https://www.spotify.com/us/) (Ninite)
@@ -81,6 +92,22 @@ I always have three or more web browsers on each computer. I use them for differ
 * Not as good as the others but I still use it every day
 
 Yes, I do use four different cloud services (actually more, but these are the ones I recommend). All for slightly different purposes.
+
+## Productivity
+
+[Moom](https://manytricks.com/moom/) (Mac only)
+* Amazing app for resizing windows. One of my favorite Mac apps
+
+[Alfred](https://www.alfredapp.com/) (Mac only)
+* In the running for one of the best productivity apps in existence
+* Can be as simple or complex as you like
+* Recommend to everyone
+
+[Todoist](https://todoist.com/)
+
+[Karabiner-Elements](https://karabiner-elements.pqrs.org/) (Mac only)
+* Great for remapping keys
+* You can [add the best Windows shortcuts to Mac](https://ke-complex-modifications.pqrs.org/?q=windows) with it
 
 # Programming
 
@@ -198,6 +225,18 @@ Still haven't found the perfect one. The two I've used most recently are:
 [Slack](https://slack.com/)
 * I can't believe this took so long to be invented. This is how communication should be
 
+# Databases
+    
+[Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15)
+* Free and looks like VSCode
+
+[Postico](https://eggerapps.at/postico/) (Mac only)
+* Not free but still very good
+
+[Navicat](https://www.navicat.com/en/)
+* Still deciding if I like this
+* Not free
+
 # LaTeX Editor
 
 [Texmaker](https://www.xm1math.net/texmaker/)
@@ -257,6 +296,9 @@ Still haven't found the perfect one. The two I've used most recently are:
 
 [Wireshark](https://www.wireshark.org/) (FOSS)
 * The clear winner for free network protocol analyzers
+
+[Papertrail](https://www.papertrail.com/)
+* Cloud-hosted logging
 
 ## Research
 
