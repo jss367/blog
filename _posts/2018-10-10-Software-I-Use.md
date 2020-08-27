@@ -309,11 +309,9 @@ Still haven't found the perfect one. The two I've used most recently are:
 
 ## Evaluating:
 
-* GitKraken
-** Seems good so far, although the free version doesn't work for private repos.
+[GitKraken](https://www.gitkraken.com/)
+* Seems good so far, although the free version doesn't work for private repos.
 
-* CyberDuck
+[CyberDuck](https://cyberduck.io/)
 
-* Postico
-
-* HyperSwitch
+[HyperSwitch](https://bahoom.com/hyperswitch)
