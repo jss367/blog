@@ -57,6 +57,8 @@ This makes it easy to do things like type `main` and get if __name__ == 'main'..
 
 https://marketplace.visualstudio.com/items?itemName=jithurjacob.nbpreviewer
 
+https://github.com/hediet/vscode-debug-visualizer/tree/master/extension
+
 ## Terminal
 
 The built-in terminal is a wonderful idea. You can pull it up with control + '`', on either mac or windows. You can also pull it up from dragging up from the bottom of the screen.
