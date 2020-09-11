@@ -244,7 +244,9 @@ Still haven't found the perfect one. The two I've used most recently are:
 * I also recommend pdflatex (through miktex)
 
 # Hex editor
-* [HxD](https://mh-nexus.de/en/hxd/)
+* [HxD](https://mh-nexus.de/en/hxd/) (Windows only)
+
+* For Mac I'm trying out Hex Fiend
 
 
 # Video conferencing
