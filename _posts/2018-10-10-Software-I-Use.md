@@ -154,7 +154,7 @@ In Windows, I use a mix, mostly because none of them are perfect. Here's a case 
 * A top contender for the best terminal in Windows. This is a really good terminal
 
 [Windows PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/getting-started/getting-started-with-windows-powershell?view=powershell-7)
-* Sometimes I like and it sometimes I don't...
+* Sometimes I like it and sometimes I don't...
 
 [Anaconda Prompt](https://www.anaconda.com/)
 * I only use this for Anaconda stuff
@@ -209,12 +209,16 @@ I have no loyalty to any of these. I usually just go with the top free one recom
 [Windscribe](https://windscribe.com/)
 * I do not have a favorite VPN and I've tried many, both paid and free. Right now I'm using this. It's... OK
 
+Mozilla also released one that I've started using a bit
+
 ## Password Managers
 
-Still haven't found the perfect one. The two I've used most recently are:
+[Bitwarden](https://bitwarden.com/)
+* I feel like I've finally found the password manager that I've been looking for. Does what I want without being obnoxious
 
+Honorable mentions:
 * [KeePass 2](https://keepass.info/) (FOSS, Ninite)
-* [Dashlane](https://www.dashlane.com/) (paid)
+* [Dashlane](https://www.dashlane.com/) (paid) - Lots of features but can be very annoying. Not good at interpreting input fields
 
 ## Managing Updates
 
@@ -250,7 +254,7 @@ Still haven't found the perfect one. The two I've used most recently are:
 # Hex editor
 * [HxD](https://mh-nexus.de/en/hxd/) (Windows only)
 
-* For Mac I'm trying out Hex Fiend
+* For Mac I'm trying out [Hex Fiend](https://ridiculousfish.com/hexfiend/)
 
 
 # Video conferencing
