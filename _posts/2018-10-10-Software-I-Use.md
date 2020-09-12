@@ -41,6 +41,10 @@ Note that you can also use a full IDE as a text editor. Only makes sense if you'
 [Commander One](https://apps.apple.com/us/app/commander-one-file-manager/id1035236694?mt=12) (Mac only)
 * *Much* better than Finder
 
+[muCommander](https://www.mucommander.com/)
+* More lightweight than Commander One, so I'm starting to prefer it
+* [This website](https://logicgrimoire.wordpress.com/2013/11/15/richs-quick-and-easy-guide-to-file-management-with-mucommander/) offers good tips on how to get started with it
+
 Still looking for one on Windows that I like
 
 ### Searching for files
