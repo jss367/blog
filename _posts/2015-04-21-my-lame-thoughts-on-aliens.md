@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why haven't colleges changed more?"
+title: "My Lame Thoughts on Aliens"
 ---
 
 My lame thoughts on aliens… 
