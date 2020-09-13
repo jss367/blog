@@ -21,3 +21,7 @@ python -c "from tensorflow.keras.applications.resnet50 import ResNet50; ResNet50
 
 Works on the anaconda prompt
 
+
+
+I also use this to find versions and file locations:
+python -c "import numpy;print (numpy.__version__);print (numpy.__file__)"

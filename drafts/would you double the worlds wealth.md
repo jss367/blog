@@ -1,0 +1,1 @@
+if you could just snap your fingers and automatically double that amount of everything everyone has, would you do it? Yes, that does mean that Jeff Bezos would get another $100 billion dollars. $100,000,000,000And that also means the poorest people won't get much of anything at all.
