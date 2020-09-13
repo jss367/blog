@@ -39,3 +39,18 @@ Status quo bias - we have a base in guantanamo bay
 Status quo bias. Why did it take women so long to enter the work force? We haven't been hunting and gathering for a long time.
 
 
+The difference between phone books and Facebook are possible the most best examples of status quo bias. A phone book is a list of everyone's names with their phone numbers and email addresses, yet no one seems concerned. I remember someone telling me, with horror, that people might be able to post their addresses on Facebook, and how horrible that would be. Meanwhile, phone books.
+
+There are certainly difference between these two. But if you disagree, just take a moment to think on whether the status quo bias might be affecting you.
+
+
+Status quo bias - distribution of nuclear weapons. Especially as the stakes get higher
+
+Status quo bias - the current jobs are the right ones. There’s always concern about talking away current jobs, but no one suggests bringing back old ones. Let’s say you’re building a technology that eliminates checkout cashiers, which is already going on. I find that I always have to answer for that. No one suggests bringing back elevator operators. What’s the difference? Given this new technology, both jobs are not needed. So why employ one and not the other? Because the one is the status quo. There’s nothing inherently correct about the today. Should we bring back elevator operators? If you ignore the baseline of today, you would never say “we shouldn’t have these jobs (elevator operators and telephone switchers) but we should have these (cashier)”.
+Some of this is because of change, but I think there’s something far more significant and universal at the bottom of it all, and that’s the status quo bias.
+
+
+Status quo bias is bad for a number of reasons. As I'm mentioned above, it stops or slows us down from doing new things that we should be doing.
+Status quo bias. There are a lot of bad things about the way things are. Like the way you stand in front of candy bars at the checkout isle
+In a nation dealing with a massive obesity problem, is this really a good idea? I think it's a horrible idea, but it's not talked about very much. There are endless news articles about Facebook ads and targeted ads, but it's because those new, not because they are 
+
