@@ -1,4 +1,7 @@
-Status Quo Bias
+---
+layout: post
+title: "Status Quo Bias"
+---
 
 I believe the status quo bias, that is, a preference for things that already exist, is the strongest, and possibly least discusses, bias of all. I see it so commonly but it's rarely included on a list of biases. 
 
@@ -15,4 +18,24 @@ But this wouldn't fully explain the seatbelt in buses situation, where there is 
 
 
 The fear of new weapons vs nuclear weapons
+
+
+Status quo bias + fear of technology
+Would we ban cars, motorcycles? 
+Anything that's been killing us for a long time is OK. Anything new is bad
+Nuclear weapons and icbms get little press, but and ai gun that could shoot ten bullets wins get so much
+Icbms delivery tens of thousands of deaths anywhere in the world in 15 minutes
+
+
+Status quo bias - alcohol vs marijuana
+Accepting all crazy views if they’re called religious.
+
+Status quo bias - ancient Greeks thought writing was decadent… We'd lose the ability to remember.
+Against phones, etc. 
+
+Status quo bias - we have a base in guantanamo bay
+
+
+Status quo bias. Why did it take women so long to enter the work force? We haven't been hunting and gathering for a long time.
+
 

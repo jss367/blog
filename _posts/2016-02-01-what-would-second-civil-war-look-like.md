@@ -1,0 +1,6 @@
+---
+layout: post
+title: "What Would a Second Civil War Look Like?"
+---
+
+What would a second civil war look like? What would a future grasp for power look like? I will tell you that, if there is a second civil war, the first will be the furthest example from what it will look like. That was a time when the country split nicely along state lines (except Virginia, which split) and had armies and battles and all the things that will not happen. But ejercicio would happen this time. Well, the previous war people used the arms they had (is this true? Or were they in militias?). But, sorry to my second amendment friends, this will have no ability to combat the federal government. So… What would it look like? Power is derived from the control of violence, and that control is provided by our military. So it would be a fight for control of the military. But would the military be monolithic? I don't think so. Although so much of it depends on working together. It's really not set up for a civil war. It's not a bunch of bullets with guns. It's high tech missiles and aircraft, all of which require multiple people working together to yield their force
