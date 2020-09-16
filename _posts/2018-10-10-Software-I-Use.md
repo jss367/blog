@@ -12,6 +12,7 @@ I'm always curious about how people set up their computers and what software pac
 [Sublime Text](https://www.sublimetext.com/)
 * I absolutely love this. Use it every day
 * With package control
+* Be sure to include the [Markdown Editor](https://github.com/SublimeText-Markdown/MarkdownEditing)
 
 [Notepad ++](https://notepad-plus-plus.org/) (Ninite)
 * Honorable mention but almost completely replaced by Sublime Text
