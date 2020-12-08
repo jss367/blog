@@ -119,7 +119,7 @@ Yes, I do use four different cloud services (actually more, but these are the on
 ## Python distribution
 
 [Anaconda](https://www.anaconda.com/distribution/) (FOSS)
-- Now a no-brainer for data scientists
+* Now a no-brainer for data scientists
 
 ## IDE
 [VSCode](https://code.visualstudio.com/) (Ninite)
