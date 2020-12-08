@@ -32,7 +32,7 @@ Note that you can also use a full IDE as a text editor. Only makes sense if you'
 * I've recently started using this and like it so far.
 * I don't like how it defaults to asking you to name a file for a new file but you can turn that off in the preferences
 
-[Mark Text]([https://marktext.app/](https://marktext.app/))
+[Mark Text](https://marktext.app/)
 * Here's the other one I use a lot. I recommend them both, about equally.
 
 ## Utilities
