@@ -140,13 +140,18 @@ Yes, I do use four different cloud services (actually more, but these are the on
 * Used in partnership with [Github](https://github.com/)
 * Git is great but frustrating when you [can't figure it out](https://xkcd.com/1597/) (yes, I've done this)
 * Github is amazing and makes git much more beginner-friendly
+* * I also recommend the [GitHub CLI](https://github.com/cli/cli)
 
 # Terminals
 
-In Windows, I use a mix, mostly because none of them are perfect. Here's a case (unlike browsers) that I would rather just have one
+## Mac
 
 [iTerm2](https://www.iterm2.com/)
-* The clear winner for Mac and my overall favorite. I wish Windows had this
+* The clear winner for Mac and my overall favorite. I wish Linux and Windows had this
+
+## Windows
+
+In Windows, I use a mix, mostly because none of them are perfect. Here's a case (unlike browsers) that I would rather just have one
 
 [Cmder](https://cmder.net/)
 * Allows Unix style commands, makes switching between Mac and Linux and Windows much easier
@@ -167,6 +172,10 @@ In Windows, I use a mix, mostly because none of them are perfect. Here's a case 
 * Still a work in progress. Gets better all the time but still has room for improvement.
 
 As you can see, I'm strewn across half a dozen terminals in Windows and have found the one on Mac. For me, nothing beats iTerm2.
+
+## Linux
+[Terminator](https://gnometerminator.blogspot.com/p/introduction.html)
+* Favorite for Linux at the moment
 
 # Shells
 [Zsh](http://zsh.sourceforge.net/)
