@@ -139,7 +139,7 @@ Yes, I do use four different cloud services (actually more, but these are the on
 * I think git has by-and-large won the version control market
 * Used in partnership with [Github](https://github.com/)
 * Git is great but frustrating when you [can't figure it out](https://xkcd.com/1597/) (yes, I've done this)
-* Github is amazing and makes git much more beginner-friendly
+* [Github Desktop](https://desktop.github.com/) is amazing and makes git much more beginner-friendly
 * * I also recommend the [GitHub CLI](https://github.com/cli/cli)
 
 # Terminals
