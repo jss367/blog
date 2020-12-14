@@ -161,3 +161,25 @@ You will need sshd in the container for this to work?
 config can be"program": "${file}"or"program": "/full/path/to/my/file.py"
 "console": "integratedTerminal"or"console": "internalConsole"
 
+
+
+
+
+if discover tests fails, go to the terminal  - click on the output tab - and change it to Python Test Log
+
+
+
+
+command + / to multiline comment
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+
+make tabs work like chrome:
+   {
+        "key": "ctrl+shift+tab",
+        "command": "workbench.action.previousEditorInGroup"
+    }
+
+
+
+also, don't know why so have editors had the change tab rely on the previously opened (which I never remember and can't see), but here's how you change it to make it more chrome-like.
+[ { "key": "ctrl+tab", "command": "workbench.action.nextEditorInGroup" }, { "key": "ctrl+shift+tab", "command": "workbench.action.previousEditorInGroup" }]

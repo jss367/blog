@@ -320,6 +320,8 @@ Honorable mentions:
 [Papertrail](https://www.papertrail.com/)
 * Cloud-hosted logging
 
+[Scroll Reverser](https://pilotmoon.com/scrollreverser/) (FOSS, Mac)
+
 ## Research
 
 [Mendeley](https://www.mendeley.com/download-desktop-new/)
@@ -335,3 +337,6 @@ Honorable mentions:
 [CyberDuck](https://cyberduck.io/)
 
 [HyperSwitch](https://bahoom.com/hyperswitch)
+
+[Wox](https://github.com/Wox-launcher/Wox) (Windows, FOSS)
+* Like Alfred for Windows
