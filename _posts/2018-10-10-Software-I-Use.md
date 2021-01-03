@@ -35,6 +35,8 @@ Note that you can also use a full IDE as a text editor. Only makes sense if you'
 [Mark Text](https://marktext.app/)
 * Here's the other one I use a lot. I recommend them both, about equally.
 
+[Evernote](https://evernote.com/)
+
 ## Utilities
 
 ### File Management
