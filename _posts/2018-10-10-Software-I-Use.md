@@ -340,3 +340,5 @@ Honorable mentions:
 
 [Wox](https://github.com/Wox-launcher/Wox) (Windows, FOSS)
 * Like Alfred for Windows
+
+[Guake](http://guake-project.org/)
