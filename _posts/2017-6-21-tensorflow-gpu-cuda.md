@@ -44,7 +44,7 @@ Install Anaconda like normal. It's a little annoying on Windows because of how p
 What you'll do is open Anaconda3 from the Start menu and ...
 
 
-conda create -n tf tensorflow-gpu
+`conda create -n tf tensorflow-gpu`
 
 
 
@@ -84,7 +84,7 @@ Here's an example extraction path: C:\Users\Julius\AppData\Local\Temp\CUDA
 
 OK, now let's see if that worked
 
-Open a command prompt and enter "nvcc -V"
+Open a command prompt and enter `nvcc -V`
 
 > nvcc -V
 nvcc: NVIDIA (R) Cuda compiler driver
@@ -122,7 +122,7 @@ https://www.tensorflow.org/install/install_windows - can I update this documenta
 To check your version:
 
 Open a python console
-```
+``` python
 import tensorflow as tf
 tf.__version__
 ```
@@ -244,7 +244,7 @@ import tensorflow as tf
 tf.config.experimental.list_physical_devices()
 ```
 and you can limit them to the GPU:
-```
+``` python
 tf.config.experimental.list_physical_devices('GPU')
 ```
 
