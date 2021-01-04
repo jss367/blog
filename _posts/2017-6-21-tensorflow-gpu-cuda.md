@@ -122,11 +122,11 @@ https://www.tensorflow.org/install/install_windows - can I update this documenta
 To check your version:
 
 Open a python console
-
+```
 import tensorflow as tf
 tf.__version__
-
-Then to upgrade it, pip install tensorflow --upgrade
+```
+Then to upgrade it, `pip install tensorflow --upgrade`
 
 
 
@@ -208,7 +208,7 @@ Variable Value: C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0
 
 now You can install TensorFlow with:
 
-pip install --upgrade tensorflow-gpu
+`pip install --upgrade tensorflow-gpu`
 
  python                                                                                                    
 ython 3.6.2 |Anaconda custom (64-bit)| (default, Jul 20 2017, 12:30:02) [MSC v.1900 64 bit (AMD64)] on win3
