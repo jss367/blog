@@ -1,4 +1,8 @@
 What if the Department of State was funded like the Department of Defense?
 
-The Department of Defense (DoD) is well-known for funding research and development into new technology. That funding is to pursue research into technologies that the military is interested in. This is a wide range of technology and includes things that are military-specific such as missile technology all the way to civilian 
-.
+The Department of Defense (DoD) is well-known for funding research and development into new technology. That funding is to pursue research into technologies that the military is interested in. This is a wide range of technology and includes things that are military-specific such as missile technology all the way to civilian purposes. Some of this innovation does bleed over into the economy and the lives of everyday people. People often use the innovation that is spurred by the military as a justification for its budget. But what if that money were given to the State Department instead. What would the world look like?
+
+We're undergoing a revolution in artificial intelligence, in particular natural language process (NLP) and computer vision (CV). The military has interests in both, but they're not as transferable. If the DOS had that same money, would we be developing CV techniques to identify crop diseases? That seems more useful to me. Or NLP techniques to help people learn new languages? The current DOS budget is somewhere around $50 billion. What if it were $500 billion? What research would it be guiding?
+
+
+
