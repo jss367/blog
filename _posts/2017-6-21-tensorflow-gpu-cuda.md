@@ -157,7 +157,7 @@ So I would recommend going with this build:
 Visual Studio 2015
 
 
-cuDNN
+## cuDNN
 
 The main page only has the current version, which is 7:
 
@@ -174,8 +174,10 @@ The tensorFlow documentation says use version 6.1, but I can't find it on their 
 
 https://www.tensorflow.org/install/install_windows
 
+You can find old versions here: 
+https://docs.nvidia.com/deeplearning/cudnn/archives/index.html
 
-Verifying Visual Studio:
+## Verifying Visual Studio
 
 Open the nbody Visual Studio solution file for the version of Visual Studio you have installed. 
 Click on the build menu, then click Build Solution
@@ -198,7 +200,6 @@ Copy the following files into the CUDA Toolkit directory.
 Copy <installpath>\cuda\bin\cudnn64_7.dll to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin.
 Copy <installpath>\cuda\ include\cudnn.h to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\include.
 Copy <installpath>\cuda\lib\x64\cudnn.lib to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\lib\x64.
-
 
 
 These can be either system or user variables:
@@ -238,13 +239,13 @@ ompute capability: 5.2
 ## Test if Tensorflow is working on the GPU
 
 You can see all your physical devices like so:
-
+``` python
 import tensorflow as tf
 tf.config.experimental.list_physical_devices()
-
+```
 and you can limit them to the GPU:
-
+```
 tf.config.experimental.list_physical_devices('GPU')
-
+```
 
 
