@@ -286,4 +286,4 @@ and you can limit them to the GPU:
 tf.config.experimental.list_physical_devices('GPU')
 ```
 
-print("Num GPUs Available: ", len(tf.config.experimental.list_physical_devices('GPU')))
+`print("Num GPUs Available: ", len(tf.config.experimental.list_physical_devices('GPU')))`
