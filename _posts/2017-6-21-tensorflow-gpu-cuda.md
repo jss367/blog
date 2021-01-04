@@ -199,8 +199,22 @@ https://www.tensorflow.org/install/install_windows
 You can find old versions here: 
 https://docs.nvidia.com/deeplearning/cudnn/archives/index.html
 
+#### Installing
 
+Once you've downloaded the correct version, it will probably be in a Download folder, somewhere like `/home/julius/Downloads`
 
+You'll need to extract it with something like this:
+`tar -xzvf cudnn-10.1-linux-x64-v7.6.5.32.tgz`
+
+Then you'll need to copy the files like so:
+``` bash
+$ sudo cp cuda/include/cudnn*.h /usr/local/cuda/include
+$ sudo cp cuda/lib64/libcudnn* /usr/local/cuda/lib64
+```
+Then change the permissions like so:
+``` bash
+$ sudo chmod a+r /usr/local/cuda/include/cudnn*.h /usr/local/cuda/lib64/libcudnn*
+```
 ## Verifying Visual Studio
 
 Open the nbody Visual Studio solution file for the version of Visual Studio you have installed. 
