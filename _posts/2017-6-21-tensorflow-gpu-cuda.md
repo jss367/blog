@@ -53,8 +53,9 @@ But if you're not sure you can check here:
 
 This is a big deal in all this.
 
-#### Cuda and Tensorflow
+#### Cuda and Tensorflow and cuDNN
 
+Tensorflow maintains [this chart](https://www.tensorflow.org/install/source#gpu) with the latest compatibility information.
 
 ## Instructions with Anaconda
 
