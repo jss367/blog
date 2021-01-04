@@ -65,15 +65,10 @@ Install Anaconda like normal. It's a little annoying on Windows because of how p
 
 What you'll do is open Anaconda3 from the Start menu and ...
 
-
-`conda create -n tf tensorflow-gpu`
-
+Although tensorflow-gpu and tensorflow is a distinction of version <= 1.15, the distinction matters quite a lot here. If you do `conda create -n tf tensorflow` it will not create a GPU version, even though it installs a 2.X version of Tensorflow. You'll need to use `conda create -n tf tensorflow-gpu` to get the GPU version.
 
 
-
-
-
-## Visual Studio
+## Visual Studio (old)
 
 On Windows, you may need Visual Studio for this. You will use it to compile CUDA projects. Check here to make sure your version of Visual Studio can work with CUDA: http://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html
 
