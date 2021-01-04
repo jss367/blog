@@ -177,6 +177,17 @@ https://www.tensorflow.org/install/install_windows
 You can find old versions here: 
 https://docs.nvidia.com/deeplearning/cudnn/archives/index.html
 
+#### Verifying cuDNN Installation
+
+It's probably here:
+
+`cat /usr/local/cuda/include/cudnn.h | grep CUDNN_MAJOR -A 2`
+
+But if you're not sure you can check here:
+`cat $(whereis cudnn.h) | grep CUDNN_MAJOR -A 2`
+
+`cat $(whereis cuda)/include/cudnn.h | grep CUDNN_MAJOR -A 2`
+
 ## Verifying Visual Studio
 
 Open the nbody Visual Studio solution file for the version of Visual Studio you have installed. 
