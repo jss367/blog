@@ -11,7 +11,7 @@ title: "Online Games"
 
 [Catan](https://colonist.io/)
 
-[Secret Hitler:](https://secrethitler.io/)
+[Secret Hitler](https://secrethitler.io/)
 
 [Town of Salem](https://www.blankmediagames.com/)
 
