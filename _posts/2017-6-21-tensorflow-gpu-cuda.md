@@ -34,6 +34,27 @@ Then, make sure it is on this list: https://developer.nvidia.com/cuda-gpus
 Sometimes you'll get stuck somewhere in the middle, unsure of what actually installed correctly. You don't want to start from the beginning because you don't want to have multiple versions conflicting, but you don't know what you need to do next. That's why I want to start this off with some ways for you to figure out exactly where you are in the process first.
 
 
+#### Cuda version
+
+cat /usr/local/cuda/version.txt
+
+#### cuDNN version
+
+It's probably here:
+
+`cat /usr/local/cuda/include/cudnn.h | grep CUDNN_MAJOR -A 2`
+
+But if you're not sure you can check here:
+`cat $(whereis cudnn.h) | grep CUDNN_MAJOR -A 2`
+
+`cat $(whereis cuda)/include/cudnn.h | grep CUDNN_MAJOR -A 2`
+
+## Compatibility
+
+This is a big deal in all this.
+
+#### Cuda and Tensorflow
+
 
 ## Instructions with Anaconda
 
@@ -177,16 +198,7 @@ https://www.tensorflow.org/install/install_windows
 You can find old versions here: 
 https://docs.nvidia.com/deeplearning/cudnn/archives/index.html
 
-#### Verifying cuDNN Installation
 
-It's probably here:
-
-`cat /usr/local/cuda/include/cudnn.h | grep CUDNN_MAJOR -A 2`
-
-But if you're not sure you can check here:
-`cat $(whereis cudnn.h) | grep CUDNN_MAJOR -A 2`
-
-`cat $(whereis cuda)/include/cudnn.h | grep CUDNN_MAJOR -A 2`
 
 ## Verifying Visual Studio
 
