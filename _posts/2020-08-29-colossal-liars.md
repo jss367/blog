@@ -3,9 +3,7 @@ layout: post
 title: "Colossal Liars"
 ---
 
-
-I came across an interesting quote recently that sparked an idea in my mind. I had been thinking about colossal liars and wondering why some can still be successful and never really had much worthwhile to say about it. I was just surprised that it worked but didn't really have any sense of it. But then I found this quote and found it illuminating:
-
+I've been thinking about colossal liars a lot recently. In particular, how is it that some people can lie so obviously and ridiculously, yet still achieve great success in many ways? How can someone tell a lie fitting for a child and still command the respect of so many? I've been wondering this for a while and never really understood it. But then I found this quote and found it quite illuminating on the subject:
 
 >> All this was inspired by the principle—which is quite true within itself—that in the big lie there is always a certain force of credibility; because the broad masses of a nation are always more easily corrupted in the deeper strata of their emotional nature than consciously or voluntarily; and thus in the primitive simplicity of their minds they more readily fall victims to the big lie than the small lie, since they themselves often tell small lies in little matters but would be ashamed to resort to large-scale falsehoods.
 
