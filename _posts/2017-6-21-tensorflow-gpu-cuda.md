@@ -178,21 +178,9 @@ Visual Studio 2015
 
 The main page only has the current version, which is 7:
 
-https://developer.nvidia.com/cudnn
+You can find the [latest version of cuDNN here](https://developer.nvidia.com/rdp/cudnn-download). However, you'll probably need a version from the [cuDNN archive](https://developer.nvidia.com/rdp/cudnn-archive).
 
-The archive stops at version 5: https://developer.nvidia.com/rdp/cudnn-archive
-
-So where to get version 6 and 6.1?
-
-
-You have to go here to get version 6: https://developer.nvidia.com/rdp/cudnn-download
-
-The tensorFlow documentation says use version 6.1, but I can't find it on their website. But version 6 works
-
-https://www.tensorflow.org/install/install_windows
-
-You can find old versions here: 
-https://docs.nvidia.com/deeplearning/cudnn/archives/index.html
+You can also find the [release notes on old versions of cuDNN](https://docs.nvidia.com/deeplearning/cudnn/archives/index.html).
 
 #### Installing
 
