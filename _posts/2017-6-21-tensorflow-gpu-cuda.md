@@ -49,6 +49,11 @@ But if you're not sure you can check here:
 
 `cat $(whereis cuda)/include/cudnn.h | grep CUDNN_MAJOR -A 2`
 
+###### Windows
+
+If you're on Windows you should be able to find them here:
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include
+
 ## Compatibility
 
 This is a big deal in all this.
@@ -181,6 +186,26 @@ The main page only has the current version, which is 7:
 You can find the [latest version of cuDNN here](https://developer.nvidia.com/rdp/cudnn-download). However, you'll probably need a version from the [cuDNN archive](https://developer.nvidia.com/rdp/cudnn-archive).
 
 You can also find the [release notes on old versions of cuDNN](https://docs.nvidia.com/deeplearning/cudnn/archives/index.html).
+
+#### Windows
+
+On Windows the procedure is similar. Download and unzip the files. 
+
+For me, they download into a folder like C:\Users\Julius\Downloads\cudnn-10.1-windows10-x64-v7.6.5.32
+
+
+
+
+Then you have to copy files:
+
+Copy the following files into the CUDA Toolkit directory.
+Copy <installpath>\cuda\bin\cudnn*.dll to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\vx.x\bin.
+Copy <installpath>\cuda\include\cudnn*.h to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\vx.x\include.
+Copy <installpath>\cuda\lib\x64\cudnn*.lib to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\vx.x\lib\x64.
+
+
+
+
 
 #### Installing
 
