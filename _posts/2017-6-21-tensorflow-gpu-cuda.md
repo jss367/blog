@@ -54,6 +54,8 @@ But if you're not sure you can check here:
 If you're on Windows you should be able to find them here:
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include
 
+You can also type this: where cudnn*
+
 ## Compatibility
 
 This is a big deal in all this.
@@ -199,11 +201,24 @@ For me, they download into a folder like C:\Users\Julius\Downloads\cudnn-10.1-wi
 Then you have to copy files:
 
 Copy the following files into the CUDA Toolkit directory.
-Copy <installpath>\cuda\bin\cudnn*.dll to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\vx.x\bin.
-Copy <installpath>\cuda\include\cudnn*.h to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\vx.x\include.
-Copy <installpath>\cuda\lib\x64\cudnn*.lib to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\vx.x\lib\x64.
 
 
+Make sure you get the version right. You can cd to `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA` and the use `dir` to see what versions you have (it should match what you previously saw).
+
+After extracting the files, here's my install path:
+C:\Users\Julius\Downloads\cudnn-10.1-windows10-x64-v7.6.5.32
+
+For these to work you'll probably need to run as administrator
+
+
+Then, from your install path, you'll want to:
+
+`copy cuda\bin\cudnn*.dll "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\bin"`
+`copy cuda\include\cudnn*.h "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include"`
+`copy cuda\lib\x64\cudnn*.lib "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\lib\x64"`
+
+Make sure your destination is right too:
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\bin
 
 
 
