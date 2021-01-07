@@ -12,9 +12,12 @@ I've never faced this problem. I have no idea what *I* would do in this situatio
 
 
 
+
 Real problems:
 
-Opiods
+Pretend problems: deep fakes
+Compare this to opioid epidemic. Willing to bet that more people die in a day from opioids then will in the next ten years from deep fakes. We're worried about people changing their votes. This tickles our "of only people knew all the facts they would agree with me" bias. False. 
+Also, the Pelosi video of slurred speech wasn't even a deep fake, but they still talked about it
 
 
 
