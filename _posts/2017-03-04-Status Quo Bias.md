@@ -54,3 +54,12 @@ Status quo bias is bad for a number of reasons. As I'm mentioned above, it stops
 Status quo bias. There are a lot of bad things about the way things are. Like the way you stand in front of candy bars at the checkout isle
 In a nation dealing with a massive obesity problem, is this really a good idea? I think it's a horrible idea, but it's not talked about very much. There are endless news articles about Facebook ads and targeted ads, but it's because those new, not because they are 
 
+
+Here's the biggest part of status quo bias. Imagine you're going to replace the need for roof inspectors. Once you do that, toils could still pay to have them do the same thing. Now you pay 1000 ppl. Why 1000 though ? Should it be more? Should it be less? There's nothing inherently special about that number
+
+
+Status quo bias. Would you erase the memory of slavery? Would you add another
+
+
+The status quo bias also affects the current interests. For example, snail mail fills up my mailbox with parts of cut-down trees that are sent across the country to people who no longer live at my address. If this were a new thing, the outrage would be strong. But since it's just "how things are", it's completely ignored. Emails let you unsubscribe, but there's no pressure on normal mail for that.
+
