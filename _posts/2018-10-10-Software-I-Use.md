@@ -325,6 +325,10 @@ Honorable mentions:
 
 [Scroll Reverser](https://pilotmoon.com/scrollreverser/) (FOSS, Mac)
 
+[gpustat](https://github.com/wookayin/gpustat)
+* Very nice tool to tracking GPU usage
+* Includes which user is user the GPU, significant upgrade to `nvidia-smi`
+
 ## Research
 
 [Mendeley](https://www.mendeley.com/download-desktop-new/)
