@@ -71,8 +71,8 @@ I always have three or more web browsers on each computer. I use them for differ
 * [Brave](https://brave.com/)
 
 ### Brower Extensions
-* AdBlockPlus
-* BitWarden
+* [AdBlockPlus](https://adblockplus.org/)
+* [BitWarden](https://bitwarden.com/)
 
 ## Media
 [Spotify](https://www.spotify.com/us/) (Ninite)
