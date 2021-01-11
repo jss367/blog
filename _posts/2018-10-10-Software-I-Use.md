@@ -246,16 +246,17 @@ Honorable mentions:
 * I can't believe this took so long to be invented. This is how communication should be
 
 # Databases
-    
+
+[Navicat for PostgreSQL](navicat.com/en/products/navicat-for-postgresql)
+* Not free but this is my favorite for databases
+
 [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15)
-* Free and looks like VSCode
+* Free and feels like VSCode in many ways
+* FOSS alternative to Navicat for PostgreSQL for me
 
 [Postico](https://eggerapps.at/postico/) (Mac only)
 * Not free but still very good
 
-[Navicat](https://www.navicat.com/en/)
-* Still deciding if I like this
-* Not free
 
 # LaTeX Editor
 
