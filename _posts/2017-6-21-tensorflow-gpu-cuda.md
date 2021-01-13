@@ -38,6 +38,10 @@ Sometimes you'll get stuck somewhere in the middle, unsure of what actually inst
 
 cat /usr/local/cuda/version.txt
 
+You can see what versions of cuda are avilable:
+
+`conda search cudatoolkit`
+
 #### cuDNN version
 
 It's probably here:
@@ -48,6 +52,8 @@ But if you're not sure you can check here:
 `cat $(whereis cudnn.h) | grep CUDNN_MAJOR -A 2`
 
 `cat $(whereis cuda)/include/cudnn.h | grep CUDNN_MAJOR -A 2`
+
+`cat /usr/local/cuda/include/cudnn.h | grep CUDNN_MAJOR -A 2`
 
 ###### Windows
 
@@ -180,7 +186,18 @@ So I would recommend going with this build:
 
 Visual Studio 2015
 
+## CUDA on Ubuntu
 
+You should be able to install on a debian-based Linux with `sudo apt install nvidia-cuda-toolkit`
+
+Now you should be able to:
+```
+(tf) julius@julius-MS-7B09:~/git/dTurk$ nvcc --version
+nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2019 NVIDIA Corporation
+Built on Sun_Jul_28_19:07:16_PDT_2019
+Cuda compilation tools, release 10.1, V10.1.243
+```
 ## cuDNN
 
 The main page only has the current version, which is 7:
@@ -296,6 +313,14 @@ _runtime\direct_session.cc:299] Device mapping:
 job:localhost/replica:0/task:0/device:GPU:0 -> device: 0, name: GeForce GTX 960, pci bus id: 0000:01:00.0, 
 ompute capability: 5.2                                                                                     
                                                                                                            
+## Paths
+
+On Unix machines, you'll need to add these to your .bashrc:
+```
+export CUDA_HOME=/usr/local/cuda
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda/lib64:/usr/local/cuda/extras/CUPTI/lib64
+export INCLUDE=/usr/local/cuda/include
+```
 
 ## Test if Tensorflow is working on the GPU
 
