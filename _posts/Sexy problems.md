@@ -21,3 +21,4 @@ Also, the Pelosi video of slurred speech wasn't even a deep fake, but they still
 
 
 
+
