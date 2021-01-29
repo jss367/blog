@@ -4,5 +4,5 @@ The Department of Defense (DoD) is well-known for funding research and developme
 
 We're undergoing a revolution in artificial intelligence, in particular natural language process (NLP) and computer vision (CV). The military has interests in both, but they're not as transferable. If the DOS had that same money, would we be developing CV techniques to identify crop diseases? That seems more useful to me. Or NLP techniques to help people learn new languages? The current DOS budget is somewhere around $50 billion. What if it were $500 billion? What research would it be guiding?
 
-
+The Department of Defense is often provided as an example of government funding innovation. It's certainly true that the DOD does a lot to steer innovation, but that's a property of the budget. If the enormous budget were instead assigned to the DOS, they would become a leading source of funding for innovation. Sure, they would apply it to many other things as well (as the DOD currently does), but they would become a significant force in guiding research and development in the United States.
 
