@@ -65,8 +65,10 @@ https://github.com/hediet/vscode-debug-visualizer/tree/master/extension
 
 ## Terminal
 
-The built-in terminal is a wonderful idea. You can pull it up with control + '`', on either mac or windows. You can also pull it up from dragging up from the bottom of the screen.
+The built-in terminal is a wonderful idea. You can pull it up with control + 'backtick', on either mac or windows. You can also pull it up from dragging up from the bottom of the screen.
+
 test: &#96;
+
 ``control + '`', on``
 
 ## Jupyter
