@@ -26,11 +26,11 @@ or
 
 ## Key bindings
 
-Ctrl k to open key bindings. From there many things are just one button, such as `z` for zen mode.
+`Ctrl + k` to open key bindings. From there many things are just one button, such as `z` for zen mode.
 
-If you just hit control + k it brings up a list of key bindings, which you can customize.
+If you just hit `control + k` it brings up a list of key bindings, which you can customize.
 
-Zen mode: Ctrl+K Z
+Zen mode: `Ctrl+k z`
 (So hold control and hit "k", then let go of both and hit "z"). Double tap "Esc" to escape.
 
 
@@ -65,11 +65,8 @@ https://github.com/hediet/vscode-debug-visualizer/tree/master/extension
 
 ## Terminal
 
-The built-in terminal is a wonderful idea. You can pull it up with control + 'backtick', on either mac or windows. You can also pull it up from dragging up from the bottom of the screen.
+The built-in terminal is a wonderful idea. You can pull it up with control + '&#96;', on either mac or windows. You can also pull it up from dragging up from the bottom of the screen.
 
-test: &#96;
-
-``control + '`', on``
 
 ## Jupyter
 
@@ -78,7 +75,7 @@ Shift enter to run through python interactive console
 
 ## Don't write .pyc files
 
-PYTHONDONTWRITEBYTECODE=1
+`PYTHONDONTWRITEBYTECODE=1`
 
 ## Code Completion
 
