@@ -51,6 +51,10 @@ Clean up imports:
 Control + Space to open snippets
 This makes it easy to do things like type `main` and get if __name__ == 'main'...
 
+## Environmental Variables
+
+Sometimes environmental variables can be tricky in VSCode. If you just open up VSCode from the application icon, it won't load with the variables. So, instead, you can open it from the command line with `code .` and it will have your environmental variables.
+
 ## Extensions
 
 #### Extensions to try
@@ -62,6 +66,8 @@ https://github.com/hediet/vscode-debug-visualizer/tree/master/extension
 ## Terminal
 
 The built-in terminal is a wonderful idea. You can pull it up with control + '`', on either mac or windows. You can also pull it up from dragging up from the bottom of the screen.
+test: &#96;
+``control + '`', on``
 
 ## Jupyter
 
