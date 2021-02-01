@@ -36,7 +36,7 @@ Zen mode: Ctrl+K Z
 
 Autoformat:
 
-Mac: Option + Shift + F
+Mac: `Option + Shift + F`
 
 
 
@@ -44,8 +44,8 @@ Clean up imports:
 
 - allows you to both sort and organize.
 
-* Windows: Alt + Shift + O
-* Mac: option + shift + O
+* Windows: `Alt + Shift + O`
+* Mac: `option + shift + O`
 
 
 Control + Space to open snippets
@@ -130,7 +130,7 @@ Here's an example with arguments:
 ```
 
 
-justMyCode is useful
+`justMyCode` is useful
 - defaults to true
 - restricts debugging to only the user-written code
 
@@ -156,19 +156,21 @@ Where the computer looks for the python interpreter - python.pythonPath
 
 And where that inpreter looks for packages - $PYTHONPATH
 
-
+```
 Host host101
   HostName juliushost101.localnetwork.internalnetwork.tld
   User root
   Port 2222
   IdentityFile ~/.ssh/id_rsa2 # you might have to do this
-
-test it out like this:ssh -F ~/config localhost
+```
+test it out like this: `ssh -F ~/config localhost`
 You will need sshd in the container for this to work?
 
-config can be"program": "${file}"or"program": "/full/path/to/my/file.py"
+config can be
+```
+"program": "${file}"or"program": "/full/path/to/my/file.py"
 "console": "integratedTerminal"or"console": "internalConsole"
-
+```
 
 
 
