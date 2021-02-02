@@ -73,9 +73,9 @@ But if you're not sure you can check here:
 ###### Windows
 
 If you're on Windows you should be able to find them here:
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include
+`C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include`
 
-You can also type this: where cudnn*
+You can also type this: `where cudnn*`
 
 ## Compatibility
 
