@@ -49,7 +49,7 @@ If you do, you'll need to remove it
 Sometimes you'll get stuck somewhere in the middle, unsure of what actually installed correctly. You don't want to start from the beginning because you don't want to have multiple versions conflicting, but you don't know what you need to do next. That's why I want to start this off with some ways for you to figure out exactly where you are in the process first.
 
 
-#### Cuda version
+#### CUDA version
 
 `cat /usr/local/cuda/version.txt`
 
@@ -59,11 +59,13 @@ You can see what versions of cuda are avilable:
 
 You can also find your version by opening a command prompt and enter `nvcc -V`
 
-> nvcc -V
+```
+(tf) julius@julius-MS-7B09:~/git$ nvcc --version
 nvcc: NVIDIA (R) Cuda compiler driver
-Copyright (c) 2005-2017 NVIDIA Corporation
-Built on Fri_Sep__1_21:08:32_Central_Daylight_Time_2017
-Cuda compilation tools, release 9.0, V9.0.176
+Copyright (c) 2005-2019 NVIDIA Corporation
+Built on Sun_Jul_28_19:07:16_PDT_2019
+Cuda compilation tools, release 10.1, V10.1.243
+```
 
 
 
