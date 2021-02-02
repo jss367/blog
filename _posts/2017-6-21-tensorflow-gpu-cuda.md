@@ -51,7 +51,7 @@ Sometimes you'll get stuck somewhere in the middle, unsure of what actually inst
 
 #### Cuda version
 
-cat /usr/local/cuda/version.txt
+`cat /usr/local/cuda/version.txt`
 
 You can see what versions of cuda are avilable:
 
