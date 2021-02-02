@@ -65,13 +65,7 @@ Copyright (c) 2005-2017 NVIDIA Corporation
 Built on Fri_Sep__1_21:08:32_Central_Daylight_Time_2017
 Cuda compilation tools, release 9.0, V9.0.176
 
-```
-(tf) julius@julius-MS-7B09:~/git/dTurk$ nvcc --version
-nvcc: NVIDIA (R) Cuda compiler driver
-Copyright (c) 2005-2019 NVIDIA Corporation
-Built on Sun_Jul_28_19:07:16_PDT_2019
-Cuda compilation tools, release 10.1, V10.1.243
-```
+
 
 #### cuDNN version
 
