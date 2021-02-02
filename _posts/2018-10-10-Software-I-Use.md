@@ -360,3 +360,10 @@ I don't particularly like the way Sublime handles markdown files by default, so 
 	"line_numbers": true,
 	"gutter": true,
 }
+I always install these extensions:
+* https://github.com/jonschlinkert/sublime-monokai-extended
+* https://github.com/jonschlinkert/sublime-markdown-extended
+
+For theme I do adaptive
+
+Color scheme is monokai-extended
