@@ -91,6 +91,11 @@ If you're on Windows you should be able to find them here:
 
 You can also type this: `where cudnn*`
 
+#### Can TensorFlow see the GPUs?
+
+Here's a good one-liner for this:
+`python -c "import tensorflow as tf; print('tf version:', tf.__version__); print('Num GPU devices: ', len(tf.config.list_physical_devices('GPU')))"`
+
 ## Compatibility
 
 This is a big deal in all this.
