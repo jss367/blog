@@ -29,6 +29,21 @@ Then, make sure it is on this list: https://developer.nvidia.com/cuda-gpus
 
 
 
+#### Verify that there aren't conflicting drivers (Linux only)
+
+verify you have cuda-enabled GPU:
+
+You should see something saying "NVIDIA" when you do:
+
+`lspci | grep -i nvidia`
+
+But you shouldn't see anything from:
+
+`lsmod | grep nouveau` 
+
+If you do, you'll need to remove it
+
+
 ## See where you are
 
 Sometimes you'll get stuck somewhere in the middle, unsure of what actually installed correctly. You don't want to start from the beginning because you don't want to have multiple versions conflicting, but you don't know what you need to do next. That's why I want to start this off with some ways for you to figure out exactly where you are in the process first.
@@ -208,6 +223,12 @@ You can also find the [release notes on old versions of cuDNN](https://docs.nvid
 
 #### Windows
 
+The install guide is here:
+[
+Then get  cuDNN:
+the install guide is here:
+[http://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html#install-windows](http://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html#install-windows)
+
 On Windows the procedure is similar. Download and unzip the files. 
 
 For me, they download into a folder like C:\Users\Julius\Downloads\cudnn-10.1-windows10-x64-v7.6.5.32
@@ -219,6 +240,18 @@ Then you have to copy files:
 
 Copy the following files into the CUDA Toolkit directory.
 
+```
+
+going from here:
+C:\Users\HMISYS\Downloads\cudnn-8.0-windows7-x64-v6.0\cuda\lib\x64
+to here:
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0
+
+Copy the following files into the CUDA Toolkit directory.
+Copy <installpath>\cuda\bin\cudnn64_7.dll to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin.
+Copy <installpath>\cuda\ include\cudnn.h to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\include.
+Copy <installpath>\cuda\lib\x64\cudnn.lib to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\lib\x64.
+```
 
 Make sure you get the version right. You can cd to `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA` and the use `dir` to see what versions you have (it should match what you previously saw).
 
@@ -255,63 +288,7 @@ Then change the permissions like so:
 ``` bash
 $ sudo chmod a+r /usr/local/cuda/include/cudnn*.h /usr/local/cuda/lib64/libcudnn*
 ```
-## Verifying Visual Studio
-
-Open the nbody Visual Studio solution file for the version of Visual Studio you have installed. 
-Click on the build menu, then click Build Solution
-It should say:
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
-
-I did the above but it was after I ran deviceQuery, not sure why I needed to do that
-
-
-Then get  cuDNN:
-the install guide is here:
-http://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html#install-windows
-
-going from here:
-C:\Users\HMISYS\Downloads\cudnn-8.0-windows7-x64-v6.0\cuda\lib\x64
-to here:
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0
-
-Copy the following files into the CUDA Toolkit directory.
-Copy <installpath>\cuda\bin\cudnn64_7.dll to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin.
-Copy <installpath>\cuda\ include\cudnn.h to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\include.
-Copy <installpath>\cuda\lib\x64\cudnn.lib to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\lib\x64.
-
-
-These can be either system or user variables:
-Variable Name: CUDA_PATH 
-Variable Value: C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0
-
-now You can install TensorFlow with:
-
-`pip install --upgrade tensorflow-gpu`
-
- python                                                                                                    
-ython 3.6.2 |Anaconda custom (64-bit)| (default, Jul 20 2017, 12:30:02) [MSC v.1900 64 bit (AMD64)] on win3
-                                                                                                           
-ype "help", "copyright", "credits" or "license" for more information.                                      
->> import tensorflow as tf                                                                                 
->> sess = tf.Session(config=tf.ConfigProto(log_device_placement=True))                                     
-017-11-09 16:29:50.126893: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\platf
-rm\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to
-use: AVX AVX2                                                                                              
-017-11-09 16:29:50.354906: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\commo
-_runtime\gpu\gpu_device.cc:1030] Found device 0 with properties:                                           
-ame: GeForce GTX 960 major: 5 minor: 2 memoryClockRate(GHz): 1.291                                         
-ciBusID: 0000:01:00.0                                                                                      
-otalMemory: 4.00GiB freeMemory: 3.43GiB                                                                    
-017-11-09 16:29:50.355906: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\commo
-_runtime\gpu\gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce GT
- 960, pci bus id: 0000:01:00.0, compute capability: 5.2)                                                   
-evice mapping:                                                                                             
-job:localhost/replica:0/task:0/device:GPU:0 -> device: 0, name: GeForce GTX 960, pci bus id: 0000:01:00.0, 
-ompute capability: 5.2                                                                                     
-017-11-09 16:29:50.648923: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\commo
-_runtime\direct_session.cc:299] Device mapping:                                                            
-job:localhost/replica:0/task:0/device:GPU:0 -> device: 0, name: GeForce GTX 960, pci bus id: 0000:01:00.0, 
-ompute capability: 5.2                                                                                     
+                                                                               
                                                                                                            
 ## Paths
 
@@ -338,20 +315,6 @@ print("Num GPUs Available: ", len(tf.config.experimental.list_physical_devices('
 ```
 
 
-
-## Verify that there aren't conflicting drivers (Linux only)
-
-verify you have cuda-enabled GPU:
-
-You should see something saying "NVIDIA" when you do:
-
-`lspci | grep -i nvidia`
-
-But you shouldn't see anything from:
-
-`lsmod | grep nouveau` 
-
-If you do, you'll need to remove it
 
 ## gcc
 
