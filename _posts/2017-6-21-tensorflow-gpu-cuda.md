@@ -109,19 +109,6 @@ What you'll do is open Anaconda3 from the Start menu and ...
 
 Although tensorflow-gpu and tensorflow is a distinction of version <= 1.15, the distinction matters quite a lot here. If you do `conda create -n tf tensorflow` it will not create a GPU version, even though it installs a 2.X version of Tensorflow. You'll need to use `conda create -n tf tensorflow-gpu` to get the GPU version.
 
-
-## Visual Studio (old)
-
-On Windows, you may need Visual Studio for this. You will use it to compile CUDA projects. Check here to make sure your version of Visual Studio can work with CUDA: http://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html
-
-Look at Table 2
-
-Note that this is for the most recent version of CUDA, which is CUDA 9.0 at the moment. CUDA 9.0 works with many different versions of VS, but not with Tensorflow
-
-I'm using Visual Studio Community 2017, which I [downloaded for free](https://www.visualstudio.com/downloads/). 
-
-You can also [download older versions here](https://www.visualstudio.com/vs/older-downloads/). You need to join a Microsoft Dev Essentials program, but joining is free. You'll need Visual Studio Community 2015 with Update 3
-
 ## Tensorflow and CUDA compatibility
 
 Make sure you check what version of CUDA to install. The latest version will not necessarily be supported by TensorFlow.
