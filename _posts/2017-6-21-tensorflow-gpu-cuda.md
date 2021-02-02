@@ -57,6 +57,22 @@ You can see what versions of cuda are avilable:
 
 `conda search cudatoolkit`
 
+You can also find your version by opening a command prompt and enter `nvcc -V`
+
+> nvcc -V
+nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2017 NVIDIA Corporation
+Built on Fri_Sep__1_21:08:32_Central_Daylight_Time_2017
+Cuda compilation tools, release 9.0, V9.0.176
+
+```
+(tf) julius@julius-MS-7B09:~/git/dTurk$ nvcc --version
+nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2019 NVIDIA Corporation
+Built on Sun_Jul_28_19:07:16_PDT_2019
+Cuda compilation tools, release 10.1, V10.1.243
+```
+
 #### cuDNN version
 
 It's probably here:
@@ -127,26 +143,13 @@ After you input your operation system information, you have the option of downlo
 Here's an example extraction path: C:\Users\Julius\AppData\Local\Temp\CUDA
 
 
-OK, now let's see if that worked
+OK, now let's see if that worked by running `nvcc --version`
 
-Open a command prompt and enter `nvcc -V`
-
-> nvcc -V
-nvcc: NVIDIA (R) Cuda compiler driver
-Copyright (c) 2005-2017 NVIDIA Corporation
-Built on Fri_Sep__1_21:08:32_Central_Daylight_Time_2017
-Cuda compilation tools, release 9.0, V9.0.176
-
-> nvcc -V
-nvcc: NVIDIA (R) Cuda compiler driver
-Copyright (c) 2005-2016 NVIDIA Corporation
-Built on Mon_Jan__9_17:32:33_CST_2017
-Cuda compilation tools, release 8.0, V8.0.60
 
 
 Then, run deviceQuery.exe
 
-You should find it somewhere like C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\extras\demo_suite
+You should find it somewhere like `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\extras\demo_suite`
 
 
 Go to a command prompt and run it by typing "deviceQuery.exe". Note that you cannot go to the folder and double click on it or it will open a command prompt, run, and close too quickly for you to see the results.
@@ -205,14 +208,8 @@ Visual Studio 2015
 
 You should be able to install on a debian-based Linux with `sudo apt install nvidia-cuda-toolkit`
 
-Now you should be able to:
-```
-(tf) julius@julius-MS-7B09:~/git/dTurk$ nvcc --version
-nvcc: NVIDIA (R) Cuda compiler driver
-Copyright (c) 2005-2019 NVIDIA Corporation
-Built on Sun_Jul_28_19:07:16_PDT_2019
-Cuda compilation tools, release 10.1, V10.1.243
-```
+Now you should be able to see it when you check your CUDA version (`nvcc --version`)
+
 ## cuDNN
 
 The main page only has the current version, which is 7:
