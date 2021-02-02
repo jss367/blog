@@ -361,9 +361,13 @@ I don't particularly like the way Sublime handles markdown files by default, so 
 	"gutter": true,
 }
 I always install these extensions:
-* https://github.com/jonschlinkert/sublime-monokai-extended
-* https://github.com/jonschlinkert/sublime-markdown-extended
+* [Monokai Extended](https://github.com/jonschlinkert/sublime-monokai-extended)
+* [Markdown Extended](https://github.com/jonschlinkert/sublime-markdown-extended)
 
 For theme I do adaptive
 
 Color scheme is monokai-extended
+
+You'll want to make sure you used markdown-extended:
+View -> Syntax -> Markdown Extended
+but this only applies it to one file.
