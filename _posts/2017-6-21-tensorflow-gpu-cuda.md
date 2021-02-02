@@ -91,7 +91,6 @@ You can also type this: `where cudnn*`
 
 type `nvidia-smi` and see if everything there is as you expect
 
-> Note: The CUDA Version displayed isn't there isn't necessarily the version you have. It's the highest version that your driver can support.
 
 ```
 julius@julius-MS-7B09:~/git$ nvidia-smi
@@ -124,6 +123,7 @@ Tue Feb  2 15:05:43 2021
 |    1   N/A  N/A     46570      G   ...gAAAAAAAAA --shared-files       99MiB |
 +-----------------------------------------------------------------------------+
 ```
+> Note: The CUDA Version displayed isn't there isn't necessarily the version you have. It's the highest version that your driver can support.
 
 
 #### Can TensorFlow see the GPUs?
