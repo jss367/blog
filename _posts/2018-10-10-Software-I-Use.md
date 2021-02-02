@@ -115,6 +115,8 @@ Yes, I do use four different cloud services (actually more, but these are the on
 [Karabiner-Elements](https://karabiner-elements.pqrs.org/) (FOSS, Mac only)
 * Great for remapping keys
 * You can [add the best Windows shortcuts to Mac](https://ke-complex-modifications.pqrs.org/?q=windows) with it
+* I use this to make control jump over words
+** Lots of useful things under complex rules
 
 # Programming
 
