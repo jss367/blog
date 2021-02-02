@@ -336,3 +336,24 @@ tf.config.experimental.list_physical_devices('GPU')
 ``` python
 print("Num GPUs Available: ", len(tf.config.experimental.list_physical_devices('GPU')))
 ```
+
+
+
+## Verify that there aren't conflicting drivers (Linux only)
+
+verify you have cuda-enabled GPU:
+
+You should see something saying "NVIDIA" when you do:
+
+`lspci | grep -i nvidia`
+
+But you shouldn't see anything from:
+
+`lsmod | grep nouveau` 
+
+If you do, you'll need to remove it
+
+## gcc
+
+Make sure you have gcc:
+gcc --version
