@@ -22,7 +22,7 @@ I'm not usually a newsletters guy, but for some reason I've found that there are
 
 [The Batch](https://www.deeplearning.ai/thebatch/)
 * Newsletter by Andrew Ng and his company, deeplearning.ai
-* Offers his thoughts on various hot topics
+* Offers his thoughts on various hot topics, even if he is unecessarily anodyne. I'd rather him share more of his thoughts
 * Includes a mix of general ML news and research findings
 
 [Import AI](https://jack-clark.net/)
