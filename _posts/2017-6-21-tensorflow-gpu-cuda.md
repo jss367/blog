@@ -84,8 +84,6 @@ But if you're not sure you can check here:
 
 `cat $(whereis cuda)/include/cudnn.h | grep CUDNN_MAJOR -A 2`
 
-`cat /usr/local/cuda/include/cudnn.h | grep CUDNN_MAJOR -A 2`
-
 ###### Windows
 
 If you're on Windows you should be able to find them here:
