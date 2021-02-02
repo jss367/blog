@@ -89,7 +89,7 @@ Tensorflow maintains [this chart](https://www.tensorflow.org/install/source#gpu)
 
 This is my recommendation
 
-Install Anaconda like normal. It's a little annoying on Windows because of how paths work. If you are on windows, don't add it to the path environment in the setup window
+Install Anaconda like normal. It's a little annoying on Windows because of how paths work. If you are on Windows, don't add it to the path environment in the setup window
 
 What you'll do is open Anaconda3 from the Start menu and ...
 
@@ -177,7 +177,7 @@ Then to upgrade it, `pip install tensorflow --upgrade`
 
 All those chomping at the bit, just build #master from source. It's not too hard (just time consuming), you get the latest CUDA/cuDNN, and additional optimizations over a pip/whl install (eg, see the CPU optimizations in this tut). Plus next time CUDA/cuDNN upgrade, you can build again w/o having to wait.
 
-When we say building we mean building from source not installing a wheel file. A wheel is already compiled and 1.4 binaries support CUDA 8 + cuDNN 6. To get CUDA 9 you will need to build from source. I have never done the windows build. Once 1.4 ships the team will switch the nightly builds over to CUDA 9.
+When we say building we mean building from source not installing a wheel file. A wheel is already compiled and 1.4 binaries support CUDA 8 + cuDNN 6. To get CUDA 9 you will need to build from source. I have never done the Windows build. Once 1.4 ships the team will switch the nightly builds over to CUDA 9.
 
 
 
