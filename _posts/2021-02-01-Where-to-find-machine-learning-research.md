@@ -38,3 +38,21 @@ Twitter is probably not the best place, but it can be OK.
 [Jeremy Howard](https://twitter.com/jeremyphoward)
 
 [Andrej Karpathy](https://twitter.com/karpathy)
+
+
+Blogs
+
+I don't find as many helpful blogs as I would like. Here are a few
+
+https://karpathy.github.io/
+
+
+Lectures
+
+You can also find information about the latest research in classes
+
+[Deep Learning for Computer Vision at University of Michigan](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
+* Taught by Justin Johnson of CS231n fame
+
+
+
