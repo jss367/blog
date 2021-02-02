@@ -357,3 +357,9 @@ If you do, you'll need to remove it
 
 Make sure you have gcc:
 gcc --version
+
+## You can also look at CUDNN with PyTorch
+
+`print(torch.__config__.show())`
+
+![png](assets/torch.png)
