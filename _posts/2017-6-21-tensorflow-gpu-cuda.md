@@ -91,6 +91,10 @@ If you're on Windows you should be able to find them here:
 
 You can also type this: `where cudnn*`
 
+#### NVIDIA-smi
+
+type `nvidia-smi` and see if everything there is as you expect
+
 #### Can TensorFlow see the GPUs?
 
 Here's a good one-liner for this:
