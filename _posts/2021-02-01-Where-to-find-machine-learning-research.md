@@ -1,10 +1,40 @@
+I'm often asked how I keep up the the latest in machine learning research. It can be difficult to even keep your head above water. Fortunately, there are a lot of resources, so here are some that I use.
+There's too much going on, so you'll need some things to help curate the list for you.
 
+<b>Table of contents</b>
+* TOC
+{:toc}
 
-Arxiv Sanity
+## Websites
 
+[Arxiv Sanity](http://www.arxiv-sanity.com/)
 
+* Site created by Andrej Karpathy
+* My #1 place to find new research
+* Be sure to create an account and start saving papers you like to it so the recommendation feature can work
 
 [Papers with Code](https://paperswithcode.com/)
+
+
+## Newsletters
+
+I'm not usually a newsletters guy, but for some reason I've found that there are excellent newsletter in the machine learning world. Here are the ones I use:
+
+[The Batch](https://www.deeplearning.ai/thebatch/)
+* Newsletter by Andrew Ng and his company, deeplearning.ai
+* Offers his thoughts on various hot topics
+* Includes a mix of general ML news and research findings
+
+[Import AI](https://jack-clark.net/)
+* By Jack Clark of OpenAI
+* Subscribe here: [https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
+
+[The Gradient](https://thegradientpub.substack.com/)
+* Lots of good information on recent research
+
+[Data Science Weekly](https://www.datascienceweekly.org/)
+
+[Data Elixir](https://dataelixir.com/)
 
 
 YouTube
