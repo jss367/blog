@@ -95,6 +95,41 @@ You can also type this: `where cudnn*`
 
 type `nvidia-smi` and see if everything there is as you expect
 
+> Note: The CUDA Version displayed isn't there isn't necessarily the version you have. It's the highest version that your driver can support.
+
+```
+julius@julius-MS-7B09:~/git$ nvidia-smi
+Tue Feb  2 15:05:43 2021       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 460.32.03    Driver Version: 460.32.03    CUDA Version: 11.2     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  GeForce RTX 208...  Off  | 00000000:0A:00.0 Off |                  N/A |
+|  0%   31C    P8     8W / 260W |      5MiB / 11019MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+|   1  GeForce RTX 208...  Off  | 00000000:42:00.0  On |                  N/A |
+| 41%   36C    P5    21W / 260W |    632MiB / 11016MiB |     27%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|    0   N/A  N/A      1255      G   /usr/lib/xorg/Xorg                  4MiB |
+|    1   N/A  N/A      1255      G   /usr/lib/xorg/Xorg                350MiB |
+|    1   N/A  N/A      1687      G   /usr/bin/gnome-shell               84MiB |
+|    1   N/A  N/A     45805      G   ...gAAAAAAAAA --shared-files       95MiB |
+|    1   N/A  N/A     46570      G   ...gAAAAAAAAA --shared-files       99MiB |
++-----------------------------------------------------------------------------+
+```
+
+
 #### Can TensorFlow see the GPUs?
 
 Here's a good one-liner for this:
