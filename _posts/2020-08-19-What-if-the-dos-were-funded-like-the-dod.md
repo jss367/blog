@@ -1,4 +1,4 @@
-What if the Department of State was funded like the Department of Defense?
+What if the Department of State were funded like the Department of Defense?
 
 The Department of Defense (DoD) is well-known for funding research and development into new technology. That funding is to pursue research into technologies that the military is interested in. This is a wide range of technology and includes things that are military-specific such as missile technology all the way to civilian purposes. Some of this innovation does bleed over into the economy and the lives of everyday people. People often use the innovation that is spurred by the military as a justification for its budget. But what if that money were given to the State Department instead. What would the world look like?
 
