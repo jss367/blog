@@ -31,7 +31,7 @@ Then, make sure it is on this list: <https://developer.nvidia.com/cuda-gpus>
 
 #### Verify that there aren't conflicting drivers (Linux only)
 
-verify you have cuda-enabled GPU:
+verify you have CUDA-enabled GPU:
 
 You should see something saying "NVIDIA" when you do:
 
@@ -53,7 +53,7 @@ Sometimes you'll get stuck somewhere in the middle, unsure of what actually inst
 
 `cat /usr/local/cuda/version.txt`
 
-You can see what versions of cuda are avilable:
+You can see what versions of CUDA are avilable:
 
 `conda search cudatoolkit`
 
@@ -135,7 +135,7 @@ Here's a good one-liner for this:
 
 This is a big deal in all this.
 
-#### Cuda and Tensorflow and cuDNN
+#### CUDA and Tensorflow and cuDNN
 
 Tensorflow maintains [this chart](https://www.tensorflow.org/install/source#gpu) with the latest compatibility information.
 
