@@ -349,3 +349,14 @@ Honorable mentions:
 * Like Alfred for Windows
 
 [Guake](http://guake-project.org/)
+
+# Customizations
+
+I don't particularly like the way Sublime handles markdown files by default, so I go into Preferences -> Settings -> Syntax Specific (Mac) and add this:
+
+{
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"draw_centered": false,
+	"line_numbers": true,
+	"gutter": true,
+}
