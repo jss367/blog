@@ -25,7 +25,7 @@ First, make sure your graphics card is installed properly and allows CUDA. You c
 
 If you're on Windows, you can use a tool like [Speccy](https://www.ccleaner.com/speccy).
 
-Then, make sure it is on this list: https://developer.nvidia.com/cuda-gpus
+Then, make sure it is on this list: <https://developer.nvidia.com/cuda-gpus>
 
 
 
