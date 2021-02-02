@@ -129,7 +129,9 @@ Tue Feb  2 15:05:43 2021
 #### Can TensorFlow see the GPUs?
 
 Here's a good one-liner for this:
-`python -c "import tensorflow as tf; print('tf version:', tf.__version__); print('Num GPU devices: ', len(tf.config.list_physical_devices('GPU')))"`
+```
+python -c "import tensorflow as tf; print('tf version:', tf.__version__); print('Num GPU devices: ', len(tf.config.list_physical_devices('GPU')))"
+```
 
 ## Compatibility
 
