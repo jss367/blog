@@ -1,16 +1,36 @@
-folder structure:
-
-.bash_alias
-
-.bash_variables?
-
-.profile?
-
-how does .bashrc call these?
-
-bash aliases
 
 
+## Oh My Zsh
+
+I recommend people use [Oh My Zsh](https://ohmyz.sh/)
+
+
+I usually leave the theme as `ZSH_THEME="robbyrussell"`
+
+
+Then I create a profile and put in it `~/.oh-my-zsh/custom/profile.zsh`
+
+```
+# general aliases
+
+#alias myip='dig TXT +short o-o.myaddr.l.google.com @ns1.google.com'
+
+# alias ll='ls -alF'
+
+alias please='sudo $(history -p !!)'
+alias rld='source ~/.zshrc' #reload
+
+alias ff='find . -name'
+alias findpy='find . -name "*.py" | xargs grep --color'
+alias grep='grep --color=auto'
+alias hgrep='history | grep -v grep | grep '
+alias ll='ls -GlAFh'
+alias lls='ls -GlAFhS'
+alias showpath='echo $PATH | tr ":" "\n"'
+alias wgpu='watch -d -n 0.5 gpustat' # requires gpustat
+```
+
+# Old
 
 ```
 alias ff='find . -name'
@@ -104,9 +124,8 @@ alias la='ls -A'
 alias l='ls -CF'
 ```
 
-## Oh My Zsh
 
-I recommend people use [Oh My Zsh](https://ohmyz.sh/)
+
 
 ```
 parse_git_branch() {
@@ -115,14 +134,6 @@ parse_git_branch() {
 # customize the zsh prompt
 PS1='%B%F{green}%(?.%F{green}√.%F{red}X:%?) %B%F{251} %1~ $(parse_git_branch)\ %# '
 ```
-
-I usually leave the theme as `ZSH_THEME="robbyrussell"`
-
-
-Then I put my profile in `~/.oh-my-zsh/custom/profile.zsh`
-
-
-
 
 
 ## Useful Git Commands
