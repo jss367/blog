@@ -116,6 +116,14 @@ parse_git_branch() {
 PS1='%B%F{green}%(?.%F{green}√.%F{red}X:%?) %B%F{251} %1~ $(parse_git_branch)\ %# '
 ```
 
+I usually leave the theme as `ZSH_THEME="robbyrussell"`
+
+
+Then I put my profile in `~/.oh-my-zsh/custom/profile.zsh`
+
+
+
+
 
 ## Useful Git Commands
 
