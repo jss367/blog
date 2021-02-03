@@ -24,7 +24,7 @@ alias ...='cd../..'
 ```
 
 ```
-gs='git status'
+alias gs='git status'
 
 #redo last command but with sudo
 please='sudo $(history -p !!)'
