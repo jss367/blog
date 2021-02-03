@@ -104,7 +104,17 @@ alias la='ls -A'
 alias l='ls -CF'
 ```
 
+## Oh My Zsh
 
+I recommend people use [Oh My Zsh](https://ohmyz.sh/)
+
+```
+parse_git_branch() {
+     git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/(\1)/'
+}
+# customize the zsh prompt
+PS1='%B%F{green}%(?.%F{green}√.%F{red}X:%?) %B%F{251} %1~ $(parse_git_branch)\ %# '
+```
 
 
 ## Useful Git Commands
