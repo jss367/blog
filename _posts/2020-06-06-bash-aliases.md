@@ -14,13 +14,13 @@ bash aliases
 
 ```
 alias ff='find . -name'
-findpy='find . -name "*.py" | xargs grep --color'
-grep='grep --color=auto'
-hgrep='history | grep -v grep | grep '
-ll='ls -GlAFh'
-lls='ls -GlAFhS'
-..='cd..'
-...='cd../..'
+alias findpy='find . -name "*.py" | xargs grep --color'
+alias grep='grep --color=auto'
+alias hgrep='history | grep -v grep | grep '
+alias ll='ls -GlAFh'
+alias lls='ls -GlAFhS'
+alias ..='cd..'
+alias ...='cd../..'
 ```
 
 ```
