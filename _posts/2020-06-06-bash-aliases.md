@@ -1,13 +1,8 @@
 bash aliases
 
 
-function to reach out to an ec2 instance:
 
-function s () {
-	ssh jsimonelli@host${1:0:1}pu10${1:1:3}.network.domain.tld
-}
-
-
+```
 alias ff='find . -name'
 findpy='find . -name "*.py" | xargs grep --color'
 grep='grep --color=auto'
@@ -16,17 +11,16 @@ ll='ls -GlAFh'
 lls='ls -GlAFhS'
 ..='cd..'
 ...='cd../..'
+```
 
-
-
+```
 gs='git status'
 
 #redo last command but with sudo
 please='sudo $(history -p !!)'
 
-wgpu='watch -d -n 0.5 nvidia-smi'
-ns='watch -d -n 0.5 nvidia-htop.py'
-
+wgpu='watch -d -n 0.5 gpustat' # requires gpustat
+ns='watch -d -n 0.5 nvidia-htop.py
 
 nb='jupyter notebook --port=8888 --no-browser --ip=0.0.0.0 ==allow-root --NotebookApp.iopub_data_rate_limit=1000000000'
 
@@ -56,7 +50,7 @@ function extract () {
  echo "'$1' is not a valid file"
  fi
  }
-
+```
 
  
 
