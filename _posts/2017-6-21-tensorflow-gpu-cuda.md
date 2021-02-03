@@ -350,3 +350,11 @@ gcc --version
 `print(torch.__config__.show())`
 
 ![png](assets/torch.png)
+
+## Still stuck
+
+If you're still stuck at the end, you can try:
+```
+python -c "import tensorflow as tf; print('tf version:', tf.version); tf.config.list_physical_devices()"
+```
+This should give you an error message that you can Google.
