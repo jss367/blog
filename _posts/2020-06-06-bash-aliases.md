@@ -52,6 +52,16 @@ function extract () {
  }
 ```
 
+```
+# reload user profile
+alias rp='source ~/.profile'
+
+# better ls (column detail and no meta-files (., .., etc))
+alias ls='ls -lA'
+
+alias showpath='echo $PATH | tr ":" "\n"'
+```
+
 conda activate "$DEFAULT_CONDA_ENVIRONMENT"
  
 
