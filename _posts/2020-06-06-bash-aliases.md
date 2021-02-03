@@ -59,3 +59,10 @@ function extract () {
 
 
  
+
+## Useful Git Commands
+
+These are good to set to an alias
+
+git log --pretty=format:'%C(yellow)%h %Cred%ad %Cblue%an%Cgreen%d %Creset%s' --date=short
+ 
