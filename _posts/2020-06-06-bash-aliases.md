@@ -52,6 +52,7 @@ function extract () {
  }
 ```
 
+conda activate "$DEFAULT_CONDA_ENVIRONMENT"
  
 
 ## Useful Git Commands
