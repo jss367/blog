@@ -1,17 +1,9 @@
 Installing CUDA
 
 
-Start with the CPU version: pip install tensorflow
-
-
-Windows 7, 64-bit
-
 CUDA used to be an acronym for Compute Inified Device Architecture, but now it's no longer an acronym. It's just CUDA.
 
-This tutorial explains how to make your graphics card, or GPU, faster with machine learning.
-
-
-How to see if it's working
+This tutorial explains how get your NVIDIA graphics card working with for deep learning.
 
 
 ## Hardware Requirements
