@@ -34,7 +34,7 @@ You'll want to find somewhere to put the conda init. Your can just put it in you
 ```
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/home/jsimonelli/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+__conda_setup="$('/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
@@ -64,6 +64,8 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 ```
+
+You'll just use whatever your path to conda is. So if you're using miniconda you would just replace `/home/julius/anaconda3` with `/home/julius/miniconda3` everywhere. Other than that it should be exactly the same.
 
 # Old
 
