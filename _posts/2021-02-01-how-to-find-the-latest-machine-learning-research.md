@@ -91,7 +91,7 @@ Twitter is probably not the best place, but it can be OK.
 
 I don't find as many helpful blogs as I would like. Here are a few. I'm sure there are more out there. Let me know your favorites.
 
-https://karpathy.github.io/
+<https://karpathy.github.io/>
 
 ## Reddit
 
