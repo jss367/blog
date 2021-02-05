@@ -70,7 +70,7 @@ You can also find information about the latest research in classes
 The instructor of the courses, Jeremy Howard, sometime references recent research in the lectures
 
 
-## Twitter:
+## Twitter
 
 Twitter is probably not the best place, but it can be OK.
 
