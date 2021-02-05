@@ -16,6 +16,12 @@ There's too much going on, so you'll need some things to help curate the list fo
 [Papers with Code](https://paperswithcode.com/)
 * The best site for seeing overall trends in the field
 
+[Google Scholar]
+* Start with a paper you're interested in and see who cited it
+
+[ConnectedPaper](https://www.connectedpapers.com/)
+* I love the idea, although I haven't actually used the site much
+
 ## Newsletters
 
 I'm not usually a newsletters guy, but for some reason I've found that there are excellent newsletter in the machine learning world. Here are the ones I use:
