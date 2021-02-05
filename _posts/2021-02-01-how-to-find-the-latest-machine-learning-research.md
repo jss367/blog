@@ -26,7 +26,7 @@ I'm not usually a newsletters guy, but for some reason I've found that there are
 * Includes a mix of general ML news and research findings
 
 [Import AI](https://jack-clark.net/)
-* By Jack Clark of OpenAI
+* By Jack Clark of [OpenAI](https://openai.com/)
 * Subscribe here: [https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
 
 [The Gradient](https://thegradientpub.substack.com/)
@@ -35,6 +35,7 @@ I'm not usually a newsletters guy, but for some reason I've found that there are
 [Data Science Weekly](https://www.datascienceweekly.org/)
 
 [Data Elixir](https://dataelixir.com/)
+* One of my favorites
 
 [Wild Week in AI](http://www.wildml.com/newsletter/)
 
@@ -52,9 +53,9 @@ I'm not usually a newsletters guy, but for some reason I've found that there are
 * Not as popular as some of the others but still really good content
 
 [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
-* This guy is great
+* Hold on to your papers because this guy is great
 
-* Textbooks
+## Textbooks
 
 I won't go into textbooks much here, but for more you can check out my [post on deep learning textbooks](https://jss367.github.io/Free-Deep-Learning-Textbooks.html).
 
