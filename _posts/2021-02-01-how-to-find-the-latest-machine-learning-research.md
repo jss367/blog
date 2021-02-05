@@ -77,7 +77,7 @@ Twitter is probably not the best place, but it can be OK.
 * I feel like I should mention this because it posts so often but in reality it doesn't curate enough and posts too many papers for me
 * Seems like it stop posting recently
 
-Blogs
+## Blogs
 
 I don't find as many helpful blogs as I would like. Here are a few
 
@@ -96,7 +96,7 @@ There are some other subreddits but I don't use them very much.
 You can also find information about the latest research in classes
 
 [Deep Learning for Computer Vision at University of Michigan](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
-* Taught by Justin Johnson of CS231n fame
+* Taught by Justin Johnson, formerly of [CS231n](http://cs231n.stanford.edu/) fame
 
 [fast.ai](https://www.fast.ai/)
 The instructor of the courses, Jeremy Howard, sometime references recent research in the lectures
