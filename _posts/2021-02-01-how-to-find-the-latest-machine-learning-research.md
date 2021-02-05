@@ -9,12 +9,12 @@ There's too much going on, so you'll need some things to help curate the list fo
 
 [Arxiv Sanity](http://www.arxiv-sanity.com/)
 
-* Site created by Andrej Karpathy
 * My #1 place to find new research
 * Be sure to create an account and start saving papers you like to it so the recommendation feature can work
+* Site created by Andrej Karpathy
 
 [Papers with Code](https://paperswithcode.com/)
-
+* The best site for seeing overall trends in the field
 
 ## Newsletters
 
@@ -58,6 +58,16 @@ I'm not usually a newsletters guy, but for some reason I've found that there are
 
 I won't go into textbooks much here, but for more you can check out my [post on deep learning textbooks](https://jss367.github.io/Free-Deep-Learning-Textbooks.html).
 
+## Lectures
+
+You can also find information about the latest research in classes
+
+[Deep Learning for Computer Vision at University of Michigan](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
+* Taught by Justin Johnson, formerly of [CS231n](http://cs231n.stanford.edu/) fame
+
+[fast.ai](https://www.fast.ai/)
+The instructor of the courses, Jeremy Howard, sometime references recent research in the lectures
+
 
 ## Twitter:
 
@@ -79,7 +89,7 @@ Twitter is probably not the best place, but it can be OK.
 
 ## Blogs
 
-I don't find as many helpful blogs as I would like. Here are a few
+I don't find as many helpful blogs as I would like. Here are a few. I'm sure there are more out there. Let me know your favorites.
 
 https://karpathy.github.io/
 
@@ -91,13 +101,4 @@ https://karpathy.github.io/
 There are some other subreddits but I don't use them very much.
 
 
-## Lectures
-
-You can also find information about the latest research in classes
-
-[Deep Learning for Computer Vision at University of Michigan](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
-* Taught by Justin Johnson, formerly of [CS231n](http://cs231n.stanford.edu/) fame
-
-[fast.ai](https://www.fast.ai/)
-The instructor of the courses, Jeremy Howard, sometime references recent research in the lectures
 
