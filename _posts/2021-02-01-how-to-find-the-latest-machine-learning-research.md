@@ -36,8 +36,10 @@ I'm not usually a newsletters guy, but for some reason I've found that there are
 
 [Data Elixir](https://dataelixir.com/)
 
+[Wild Week in AI](http://www.wildml.com/newsletter/)
 
-YouTube
+
+## YouTube
 
 [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
 * Not many videos but the ones he has are good
@@ -57,7 +59,7 @@ YouTube
 I won't go into textbooks much here, but for more you can check out my [post on deep learning textbooks](https://jss367.github.io/Free-Deep-Learning-Textbooks.html).
 
 
-Twitter:
+## Twitter:
 
 Twitter is probably not the best place, but it can be OK.
 
@@ -69,6 +71,11 @@ Twitter is probably not the best place, but it can be OK.
 
 [Andrej Karpathy](https://twitter.com/karpathy)
 
+[Tom Silver](https://twitter.com/tomssilver)
+
+[Brundage Bot](https://twitter.com/brundagebot)
+* I feel like I should mention this because it posts so often but in reality it doesn't curate enough and posts too many papers for me
+* Seems like it stop posting recently
 
 Blogs
 
@@ -76,13 +83,21 @@ I don't find as many helpful blogs as I would like. Here are a few
 
 https://karpathy.github.io/
 
+## Reddit
 
-Lectures
+[r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
+* I don't go to reddit much for finding the latest in ML, but you can definitely find stuff there. There's a weekly WAYR (What Are You Reading) pinned thread which can be good.
+
+There are some other subreddits but I don't use them very much.
+
+
+## Lectures
 
 You can also find information about the latest research in classes
 
 [Deep Learning for Computer Vision at University of Michigan](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 * Taught by Justin Johnson of CS231n fame
 
-
+[fast.ai](https://www.fast.ai/)
+The instructor of the courses, Jeremy Howard, sometime references recent research in the lectures
 
