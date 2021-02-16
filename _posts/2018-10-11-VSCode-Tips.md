@@ -181,12 +181,19 @@ command + / to multiline comment
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
 make tabs work like chrome:
+```
    {
         "key": "ctrl+shift+tab",
         "command": "workbench.action.previousEditorInGroup"
     }
-
+```
 
 
 also, don't know why so have editors had the change tab rely on the previously opened (which I never remember and can't see), but here's how you change it to make it more chrome-like.
+```
 [ { "key": "ctrl+tab", "command": "workbench.action.nextEditorInGroup" }, { "key": "ctrl+shift+tab", "command": "workbench.action.previousEditorInGroup" }]
+```
+
+## Testing
+
+Sometimes the Discover Tests functionality fails, often for path issues. Remember, even if it fails you can always runs tests by doing `python -m pytest my_tests`
