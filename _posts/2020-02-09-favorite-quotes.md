@@ -33,3 +33,5 @@ excerpt: Imagine others complexly
 * James Mattis on Elizabeth Holmes
   * I think this quote shows how even the most successful people can have blindspots, and how incredibly blind those spots can be
 
+>  In this world, Elwood, you must be oh-so-smart, or oh-so-pleasant. Well for years I was smart...I recommend pleasant.
+* James Stuart from the movie Harvey
