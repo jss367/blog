@@ -15,6 +15,7 @@ There's too much going on, so you'll need some things to help curate the list fo
 
 [Papers with Code](https://paperswithcode.com/)
 * The best site for seeing overall trends in the field
+* There's also a newsletter (see below)
 
 [Google Scholar](https://scholar.google.com/)
 * Start with a paper you're interested in and see who cited it
@@ -46,6 +47,8 @@ I'm not usually a newsletters guy, but for some reason I've found that there are
 * One of my favorites
 
 [Wild Week in AI](http://www.wildml.com/newsletter/)
+
+[PapersWithCode](https://paperswithcode.com/newsletter/)
 
 
 ## YouTube
