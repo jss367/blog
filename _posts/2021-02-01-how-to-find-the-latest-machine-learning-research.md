@@ -76,7 +76,7 @@ You can also find information about the latest research in classes
 * Taught by Justin Johnson, formerly of [CS231n](http://cs231n.stanford.edu/) fame
 
 [fast.ai](https://www.fast.ai/)
-The instructor of the courses, Jeremy Howard, sometime references recent research in the lectures
+* The instructor of the courses, Jeremy Howard, sometime references recent research in the lectures
 
 
 ## Twitter
