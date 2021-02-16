@@ -16,10 +16,11 @@ There's too much going on, so you'll need some things to help curate the list fo
 [Papers with Code](https://paperswithcode.com/)
 * The best site for seeing overall trends in the field
 
-[Google Scholar]
+[Google Scholar](https://scholar.google.com/)
 * Start with a paper you're interested in and see who cited it
 
 [ConnectedPaper](https://www.connectedpapers.com/)
+* Creates a graph of papers, so you can find research that is similar to what you're looking for
 * I love the idea, although I haven't actually used the site much
 
 ## Newsletters
@@ -33,7 +34,8 @@ I'm not usually a newsletters guy, but for some reason I've found that there are
 
 [Import AI](https://jack-clark.net/)
 * By Jack Clark of [OpenAI](https://openai.com/)
-* Subscribe here: [https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
+* Does a great job of highlighting the top papers of the week
+* [Subscribe here](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
 
 [The Gradient](https://thegradientpub.substack.com/)
 * Lots of good information on recent research
@@ -48,9 +50,6 @@ I'm not usually a newsletters guy, but for some reason I've found that there are
 
 ## YouTube
 
-[Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
-* Not many videos but the ones he has are good
-
 [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew)
 * Lots of videos, quite detailed
 * Good paper review
@@ -60,6 +59,10 @@ I'm not usually a newsletters guy, but for some reason I've found that there are
 
 [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 * Hold on to your papers because this guy is great
+* Generally shorter videos than the others
+
+[Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
+* Not many videos but the ones he has are excellent
 
 ## Textbooks
 
