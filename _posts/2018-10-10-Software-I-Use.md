@@ -348,13 +348,30 @@ Honorable mentions:
 # Customizations
 
 I don't particularly like the way Sublime handles markdown files by default, so I go into Preferences -> Settings -> Syntax Specific (Mac) and add this:
-
+```
 {
 	"color_scheme": "Monokai.sublime-color-scheme",
 	"draw_centered": false,
 	"line_numbers": true,
 	"gutter": true,
 }
+```
+Here's another option:
+```
+{
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"line_numbers": true,
+	"show_full_path": true,
+	"spell_check": true,
+	"theme": "Adaptive.sublime-theme"
+}
+```
 I always install these extensions:
 * [Monokai Extended](https://github.com/jonschlinkert/sublime-monokai-extended)
 * [Markdown Extended](https://github.com/jonschlinkert/sublime-markdown-extended)
