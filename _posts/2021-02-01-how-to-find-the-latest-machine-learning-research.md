@@ -19,7 +19,7 @@ There's too much going on, so you'll need some things to help curate the list fo
 [Google Scholar](https://scholar.google.com/)
 * Start with a paper you're interested in and see who cited it
 
-[ConnectedPaper](https://www.connectedpapers.com/)
+[ConnectedPapers](https://www.connectedpapers.com/)
 * Creates a graph of papers, so you can find research that is similar to what you're looking for
 * I love the idea, although I haven't actually used the site much
 
