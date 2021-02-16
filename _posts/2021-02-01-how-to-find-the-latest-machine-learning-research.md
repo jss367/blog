@@ -34,7 +34,7 @@ I'm not usually a newsletters guy, but for some reason I've found that there are
 
 [Import AI](https://jack-clark.net/)
 * By Jack Clark of [OpenAI](https://openai.com/)
-* Does a great job of highlighting the top papers of the week
+* Does a great job of highlighting the top papers of the week and gives good context for them as well
 * [Subscribe here](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
 
 [The Gradient](https://thegradientpub.substack.com/)
