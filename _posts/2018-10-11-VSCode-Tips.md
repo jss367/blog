@@ -4,6 +4,10 @@ title: "VSCode Tips"
 tags: [Software]
 ---
 
+This post contains some of my favorite tips and tricks for working with VSCode. These are just some that I like, VSCode has [their own tips and tricks page](https://code.visualstudio.com/docs/getstarted/tips-and-tricks) that I recommend as well.
+
+## Command Palette
+
 One of the most important things to be able to do in VSCode is to open the command palette. From there you can access the settings:
 
   * Open the Command Palette: `CMD/CTRL + SHIFT + P`
@@ -197,3 +201,8 @@ also, don't know why so have editors had the change tab rely on the previously o
 ## Testing
 
 Sometimes the Discover Tests functionality fails, often for path issues. Remember, even if it fails you can always runs tests by doing `python -m pytest my_tests`
+
+
+## To Try
+* shift cmd M
+* F8 or Shift F8 to cycle between errors
