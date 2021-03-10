@@ -6,6 +6,10 @@ tags: [Software]
 
 I'm always curious about how people set up their computers and what software packages they have, so I thought I would share mine. I use Windows, Mac, and Linux, so the exact setup varies. For those of you on Windows, many of these can be installed with [Ninite](https://ninite.com/).
 
+<b>Table of contents</b>
+* TOC
+{:toc}
+
 # General
 
 ## Text Editors
@@ -14,28 +18,9 @@ I'm always curious about how people set up their computers and what software pac
 * With package control
 * Be sure to include the [Markdown Editor](https://github.com/SublimeText-Markdown/MarkdownEditing)
 
-[Notepad ++](https://notepad-plus-plus.org/) (Ninite)
-* Honorable mention but almost completely replaced by Sublime Text
-
 [Evernote](https://evernote.com/) (Ninite)
 * Really good but I just don't use it that much anymore
-* Good for long-term memory stuff, receipts
-
-[Atom](https://atom.io/)
-* I've used this but prefer the others, so rarely go back to it
-
-Note that you can also use a full IDE as a text editor. Only makes sense if you're already using one though.
-
-#### Editting Markdown
-
-[Zettlr](https://www.zettlr.com/)
-* I've recently started using this and like it so far.
-* I don't like how it defaults to asking you to name a file for a new file but you can turn that off in the preferences
-
-[Mark Text](https://marktext.app/)
-* Here's the other one I use a lot. I recommend them both, about equally.
-
-[Evernote](https://evernote.com/)
+* Good for long-term memory stuff, storing pictures (like receipts)
 
 ## Utilities
 
@@ -44,6 +29,10 @@ Note that you can also use a full IDE as a text editor. Only makes sense if you'
 [Commander One](https://apps.apple.com/us/app/commander-one-file-manager/id1035236694?mt=12) (Mac only)
 * *Much* better than Finder
 
+[Files](https://github.com/files-community/Files) (FOSS, Windows)
+* I recently started using this on Windows and like it
+* Good use of tabs and windows
+
 [muCommander](https://www.mucommander.com/)
 * More lightweight than Commander One, so I'm starting to prefer it
 * [This website](https://logicgrimoire.wordpress.com/2013/11/15/richs-quick-and-easy-guide-to-file-management-with-mucommander/) offers good tips on how to get started with it
@@ -51,7 +40,7 @@ Note that you can also use a full IDE as a text editor. Only makes sense if you'
 Still looking for one on Windows that I like
 
 ### Searching for files
-[Agent Ransack](https://www.mythicsoft.com/agentransack/) (Windows only)
+[Agent Ransack](https://www.mythicsoft.com/agentransack/) (Windows)
 - Perfect search tool. I strongly favor this over the (otherwise also very good) alternatives
 - No equivalent for Linux or Mac, although there are decent built-in options
 
@@ -60,7 +49,7 @@ Still looking for one on Windows that I like
 - The clear winner for Windows
 
 ### Checking disk space
-[WinDirStat](https://windirstat.net/index.html) (Windows only) (Ninite)
+[WinDirStat](https://windirstat.net/index.html) (Ninite, Window)
 
 [ncdu](https://dev.yorhel.nl/ncdu)
 
@@ -102,10 +91,10 @@ Yes, I do use four different cloud services (actually more, but these are the on
 
 ## Productivity
 
-[Moom](https://manytricks.com/moom/) (Mac only)
+[Moom](https://manytricks.com/moom/) (Mac)
 * Amazing app for resizing windows. One of my favorite Mac apps
 
-[Alfred](https://www.alfredapp.com/) (Mac only)
+[Alfred](https://www.alfredapp.com/) (Mac)
 * In the running for one of the best productivity apps in existence
 * Can be as simple or complex as you like
 * Recommend to everyone
@@ -125,7 +114,7 @@ Yes, I do use four different cloud services (actually more, but these are the on
 [Anaconda](https://www.anaconda.com/distribution/) (FOSS)
 * Now a no-brainer for data scientists
 
-## IDE
+## Integrated Development Environment (IDE)
 [VSCode](https://code.visualstudio.com/) (Ninite)
 * Right now it's VSCode and I'm very happy with it. I have used many of the alternatives and, in general, I think there are a lot of good options, but I like VSCode.
 * Configuring your IDE that way you like it is essential, and VSCode is incredibly extensible.
@@ -136,7 +125,7 @@ Yes, I do use four different cloud services (actually more, but these are the on
 * It is excellent though and I recommend it
 
 [RStudio](https://rstudio.com/)
-* The clear winner in my opinion for R IDE, although I don't use R much anymore
+* The clear winner in my opinion for R IDE, although I don't use R much anymore so this could no longer be true
 
 ## Version Control
 [Git](https://git-scm.com/)
@@ -240,6 +229,9 @@ Honorable mentions:
 [Slack](https://slack.com/)
 * I can't believe this took so long to be invented. This is how communication should be
 
+[Viber](https://www.viber.com/)
+* Beware: has ads, don't I don't find them that intrusive
+
 # Databases
 
 [Navicat for PostgreSQL](navicat.com/en/products/navicat-for-postgresql)
@@ -333,6 +325,10 @@ Honorable mentions:
 
 ## Evaluating:
 
+[Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/) (Windows)
+
+[PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) (Windows)
+
 [GitKraken](https://www.gitkraken.com/)
 * Seems good so far, although the free version doesn't work for private repos.
 
@@ -383,3 +379,24 @@ Color scheme is monokai-extended
 You'll want to make sure you used markdown-extended:
 View -> Syntax -> Markdown Extended
 but this only applies it to one file.
+
+# Decommissioned
+
+These are apps I used to use but for one reason or another don't anymore. I thought I'd keep them here as honorable mentions.
+
+## Text Editors
+
+[Notepad ++](https://notepad-plus-plus.org/) (Ninite)
+* Honorable mention but almost completely replaced by Sublime Text
+
+[Atom](https://atom.io/)
+* I've used this but prefer the others, so rarely go back to it
+
+#### Editting Markdown
+
+[Zettlr](https://www.zettlr.com/)
+* I've recently started using this and like it so far.
+* I don't like how it defaults to asking you to name a file for a new file but you can turn that off in the preferences
+
+[Mark Text](https://marktext.app/)
+* Here's the other one I use a lot. I recommend them both, about equally.
