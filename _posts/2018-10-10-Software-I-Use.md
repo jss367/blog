@@ -325,6 +325,9 @@ Honorable mentions:
 
 ## Evaluating:
 
+[Belarc Advisor](https://www.belarc.com/products_belarc_advisor)
+* Similar to Speccy
+
 [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/) (Windows)
 
 [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) (Windows)
