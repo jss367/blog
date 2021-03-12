@@ -92,12 +92,12 @@ Yes, I do use four different cloud services (actually more, but these are the on
 ## Productivity
 
 [Moom](https://manytricks.com/moom/) (Mac)
-* Amazing app for resizing windows. One of my favorite Mac apps
+* Great app for resizing windows
 
 [Alfred](https://www.alfredapp.com/) (Mac)
 * In the running for one of the best productivity apps in existence
+* This is probably my favorite app for the Mac
 * Can be as simple or complex as you like
-* Recommend to everyone
 
 [Todoist](https://todoist.com/)
 
